@@ -1,0 +1,1803 @@
+{
+  "name": "Python Expert",
+  "total_commands": 285,
+  "learned": 0,
+  "progress": 0,
+  "categories": {
+    "Вывод и ввод": {
+      "total": 11,
+      "learned": 0,
+      "commands": [
+        {
+          "cmd": "print()",
+          "desc": "Выводит текст или переменную на экран",
+          "example": "print(\"Hello World\")",
+          "learned": false
+        },
+        {
+          "cmd": "input()",
+          "desc": "Считывает ввод пользователя с клавиатуры",
+          "example": "name = input(\"Как вас зовут?\")",
+          "learned": false
+        },
+        {
+          "cmd": "format()",
+          "desc": "Форматирует строку с подстановкой значений",
+          "example": "\"Hello, {}\".format(name)",
+          "learned": false
+        },
+        {
+          "cmd": "f-строки",
+          "desc": "Быстрое форматирование строк (Python 3.6+)",
+          "example": "f\"Hello, {name}\"",
+          "learned": false
+        },
+        {
+          "cmd": "str()",
+          "desc": "Преобразует объект в строку",
+          "example": "str(123) → \"123\"",
+          "learned": false
+        },
+        {
+          "cmd": "int()",
+          "desc": "Преобразует строку или число в целое число",
+          "example": "int(\"123\") → 123",
+          "learned": false
+        },
+        {
+          "cmd": "float()",
+          "desc": "Преобразует строку или число в число с плавающей точкой",
+          "example": "float(\"3.14\") → 3.14",
+          "learned": false
+        },
+        {
+          "cmd": "bool()",
+          "desc": "Преобразует значение в булево (True/False)",
+          "example": "bool(0) → False",
+          "learned": false
+        },
+        {
+          "cmd": "repr()",
+          "desc": "Возвращает строковое представление объекта для отладки",
+          "example": "repr([1,2,3])",
+          "learned": false
+        },
+        {
+          "cmd": "eval()",
+          "desc": "Выполняет строку как Python код (ОПАСНО!)",
+          "example": "eval(\"2+2\") → 4",
+          "learned": false
+        },
+        {
+          "cmd": "exec()",
+          "desc": "Выполняет блок кода из строки",
+          "example": "exec(\"print(123)\")",
+          "learned": false
+        }
+      ]
+    },
+    "Переменные и типы": {
+      "total": 12,
+      "learned": 0,
+      "commands": [
+        {
+          "cmd": "type()",
+          "desc": "Возвращает тип объекта",
+          "example": "type(123) → <class \"int\">",
+          "learned": false
+        },
+        {
+          "cmd": "id()",
+          "desc": "Возвращает уникальный идентификатор объекта",
+          "example": "id(obj)",
+          "learned": false
+        },
+        {
+          "cmd": "isinstance()",
+          "desc": "Проверяет принадлежность объекта к типу",
+          "example": "isinstance(5, int) → True",
+          "learned": false
+        },
+        {
+          "cmd": "issubclass()",
+          "desc": "Проверяет является ли класс подклассом",
+          "example": "issubclass(int, object) → True",
+          "learned": false
+        },
+        {
+          "cmd": "hasattr()",
+          "desc": "Проверяет наличие атрибута у объекта",
+          "example": "hasattr(obj, \"name\")",
+          "learned": false
+        },
+        {
+          "cmd": "getattr()",
+          "desc": "Получает значение атрибута объекта",
+          "example": "getattr(obj, \"name\", \"default\")",
+          "learned": false
+        },
+        {
+          "cmd": "setattr()",
+          "desc": "Устанавливает атрибут объекта",
+          "example": "setattr(obj, \"name\", \"value\")",
+          "learned": false
+        },
+        {
+          "cmd": "delattr()",
+          "desc": "Удаляет атрибут объекта",
+          "example": "delattr(obj, \"name\")",
+          "learned": false
+        },
+        {
+          "cmd": "vars()",
+          "desc": "Возвращает словарь атрибутов объекта",
+          "example": "vars(obj)",
+          "learned": false
+        },
+        {
+          "cmd": "dir()",
+          "desc": "Возвращает список атрибутов и методов объекта",
+          "example": "dir(obj)",
+          "learned": false
+        },
+        {
+          "cmd": "help()",
+          "desc": "Выводит справку по объекту или функции",
+          "example": "help(print)",
+          "learned": false
+        },
+        {
+          "cmd": "callable()",
+          "desc": "Проверяет является ли объект вызываемым",
+          "example": "callable(print) → True",
+          "learned": false
+        }
+      ]
+    },
+    "Строки": {
+      "total": 22,
+      "learned": 0,
+      "commands": [
+        {
+          "cmd": "len()",
+          "desc": "Возвращает длину строки или коллекции",
+          "example": "len(\"Hello\") → 5",
+          "learned": false
+        },
+        {
+          "cmd": "upper()",
+          "desc": "Преобразует строку в верхний регистр",
+          "example": "\"hello\".upper() → \"HELLO\"",
+          "learned": false
+        },
+        {
+          "cmd": "lower()",
+          "desc": "Преобразует строку в нижний регистр",
+          "example": "\"HELLO\".lower() → \"hello\"",
+          "learned": false
+        },
+        {
+          "cmd": "strip()",
+          "desc": "Удаляет пробелы в начале и конце строки",
+          "example": "\"  hi  \".strip() → \"hi\"",
+          "learned": false
+        },
+        {
+          "cmd": "split()",
+          "desc": "Разбивает строку на список по разделителю",
+          "example": "\"a,b,c\".split(\",\") → [\"a\",\"b\",\"c\"]",
+          "learned": false
+        },
+        {
+          "cmd": "join()",
+          "desc": "Объединяет список в строку с разделителем",
+          "example": "\",\".join([\"a\",\"b\"]) → \"a,b\"",
+          "learned": false
+        },
+        {
+          "cmd": "replace()",
+          "desc": "Заменяет подстроку в строке",
+          "example": "\"hello\".replace(\"l\", \"x\") → \"hexxo\"",
+          "learned": false
+        },
+        {
+          "cmd": "find()",
+          "desc": "Ищет подстроку и возвращает индекс (или -1)",
+          "example": "\"hello\".find(\"l\") → 2",
+          "learned": false
+        },
+        {
+          "cmd": "index()",
+          "desc": "Ищет подстроку и возвращает индекс (ошибка если нет)",
+          "example": "\"hello\".index(\"l\") → 2",
+          "learned": false
+        },
+        {
+          "cmd": "startswith()",
+          "desc": "Проверяет начинается ли строка с подстроки",
+          "example": "\"hello\".startswith(\"he\") → True",
+          "learned": false
+        },
+        {
+          "cmd": "endswith()",
+          "desc": "Проверяет заканчивается ли строка подстрокой",
+          "example": "\"hello\".endswith(\"lo\") → True",
+          "learned": false
+        },
+        {
+          "cmd": "count()",
+          "desc": "Считает количество вхождений подстроки",
+          "example": "\"hello\".count(\"l\") → 2",
+          "learned": false
+        },
+        {
+          "cmd": "isalpha()",
+          "desc": "Проверяет состоит ли строка только из букв",
+          "example": "\"hello\".isalpha() → True",
+          "learned": false
+        },
+        {
+          "cmd": "isdigit()",
+          "desc": "Проверяет состоит ли строка только из цифр",
+          "example": "\"123\".isdigit() → True",
+          "learned": false
+        },
+        {
+          "cmd": "isalnum()",
+          "desc": "Проверяет состоит ли строка из букв или цифр",
+          "example": "\"abc123\".isalnum() → True",
+          "learned": false
+        },
+        {
+          "cmd": "isspace()",
+          "desc": "Проверяет состоит ли строка из пробелов",
+          "example": "\"   \".isspace() → True",
+          "learned": false
+        },
+        {
+          "cmd": "capitalize()",
+          "desc": "Делает первую букву заглавной",
+          "example": "\"hello\".capitalize() → \"Hello\"",
+          "learned": false
+        },
+        {
+          "cmd": "title()",
+          "desc": "Делает все первые буквы слов заглавными",
+          "example": "\"hello world\".title() → \"Hello World\"",
+          "learned": false
+        },
+        {
+          "cmd": "swapcase()",
+          "desc": "Меняет регистр букв на противоположный",
+          "example": "\"Hello\".swapcase() → \"hELLO\"",
+          "learned": false
+        },
+        {
+          "cmd": "zfill()",
+          "desc": "Дополняет строку нулями слева",
+          "example": "\"42\".zfill(5) → \"00042\"",
+          "learned": false
+        },
+        {
+          "cmd": "encode()",
+          "desc": "Кодирует строку в байты",
+          "example": "\"hello\".encode(\"utf-8\")",
+          "learned": false
+        },
+        {
+          "cmd": "decode()",
+          "desc": "Декодирует байты в строку",
+          "example": "b\"hello\".decode(\"utf-8\")",
+          "learned": false
+        }
+      ]
+    },
+    "Списки": {
+      "total": 22,
+      "learned": 0,
+      "commands": [
+        {
+          "cmd": "append()",
+          "desc": "Добавляет элемент в конец списка",
+          "example": "lst.append(5)",
+          "learned": false
+        },
+        {
+          "cmd": "insert()",
+          "desc": "Вставляет элемент по индексу",
+          "example": "lst.insert(1, \"x\")",
+          "learned": false
+        },
+        {
+          "cmd": "remove()",
+          "desc": "Удаляет первое вхождение элемента",
+          "example": "lst.remove(5)",
+          "learned": false
+        },
+        {
+          "cmd": "pop()",
+          "desc": "Удаляет и возвращает элемент по индексу",
+          "example": "last = lst.pop()",
+          "learned": false
+        },
+        {
+          "cmd": "clear()",
+          "desc": "Очищает список",
+          "example": "lst.clear()",
+          "learned": false
+        },
+        {
+          "cmd": "index()",
+          "desc": "Возвращает индекс элемента",
+          "example": "lst.index(5)",
+          "learned": false
+        },
+        {
+          "cmd": "count()",
+          "desc": "Считает количество вхождений элемента",
+          "example": "lst.count(5)",
+          "learned": false
+        },
+        {
+          "cmd": "sort()",
+          "desc": "Сортирует список по возрастанию",
+          "example": "lst.sort()",
+          "learned": false
+        },
+        {
+          "cmd": "reverse()",
+          "desc": "Разворачивает список",
+          "example": "lst.reverse()",
+          "learned": false
+        },
+        {
+          "cmd": "extend()",
+          "desc": "Расширяет список другим списком",
+          "example": "lst.extend([1,2,3])",
+          "learned": false
+        },
+        {
+          "cmd": "copy()",
+          "desc": "Создаёт копию списка",
+          "example": "new = lst.copy()",
+          "learned": false
+        },
+        {
+          "cmd": "sorted()",
+          "desc": "Возвращает отсортированный список (не меняя исходный)",
+          "example": "sorted([3,1,2]) → [1,2,3]",
+          "learned": false
+        },
+        {
+          "cmd": "reversed()",
+          "desc": "Возвращает итератор в обратном порядке",
+          "example": "list(reversed([1,2,3])) → [3,2,1]",
+          "learned": false
+        },
+        {
+          "cmd": "enumerate()",
+          "desc": "Возвращает пары (индекс, элемент)",
+          "example": "for i, v in enumerate(lst):",
+          "learned": false
+        },
+        {
+          "cmd": "zip()",
+          "desc": "Объединяет несколько списков в кортежи",
+          "example": "list(zip([1,2], [\"a\",\"b\"]))",
+          "learned": false
+        },
+        {
+          "cmd": "map()",
+          "desc": "Применяет функцию ко всем элементам",
+          "example": "list(map(str, [1,2,3]))",
+          "learned": false
+        },
+        {
+          "cmd": "filter()",
+          "desc": "Фильтрует элементы по условию",
+          "example": "list(filter(lambda x: x>0, [-1,0,1]))",
+          "learned": false
+        },
+        {
+          "cmd": "any()",
+          "desc": "True если хоть один элемент True",
+          "example": "any([False, True]) → True",
+          "learned": false
+        },
+        {
+          "cmd": "all()",
+          "desc": "True если все элементы True",
+          "example": "all([True, True]) → True",
+          "learned": false
+        },
+        {
+          "cmd": "sum()",
+          "desc": "Суммирует все элементы",
+          "example": "sum([1,2,3]) → 6",
+          "learned": false
+        },
+        {
+          "cmd": "min()",
+          "desc": "Возвращает минимальный элемент",
+          "example": "min([1,2,3]) → 1",
+          "learned": false
+        },
+        {
+          "cmd": "max()",
+          "desc": "Возвращает максимальный элемент",
+          "example": "max([1,2,3]) → 3",
+          "learned": false
+        }
+      ]
+    },
+    "Словари": {
+      "total": 11,
+      "learned": 0,
+      "commands": [
+        {
+          "cmd": "keys()",
+          "desc": "Возвращает все ключи словаря",
+          "example": "dict.keys()",
+          "learned": false
+        },
+        {
+          "cmd": "values()",
+          "desc": "Возвращает все значения словаря",
+          "example": "dict.values()",
+          "learned": false
+        },
+        {
+          "cmd": "items()",
+          "desc": "Возвращает пары (ключ, значение)",
+          "example": "dict.items()",
+          "learned": false
+        },
+        {
+          "cmd": "get()",
+          "desc": "Возвращает значение по ключу (или default)",
+          "example": "dict.get(\"key\", \"default\")",
+          "learned": false
+        },
+        {
+          "cmd": "setdefault()",
+          "desc": "Возвращает значение или устанавливает default",
+          "example": "dict.setdefault(\"key\", [])",
+          "learned": false
+        },
+        {
+          "cmd": "update()",
+          "desc": "Объединяет словари",
+          "example": "dict.update({\"a\":1})",
+          "learned": false
+        },
+        {
+          "cmd": "pop()",
+          "desc": "Удаляет и возвращает значение по ключу",
+          "example": "value = dict.pop(\"key\")",
+          "learned": false
+        },
+        {
+          "cmd": "popitem()",
+          "desc": "Удаляет и возвращает последнюю пару",
+          "example": "key, value = dict.popitem()",
+          "learned": false
+        },
+        {
+          "cmd": "clear()",
+          "desc": "Очищает словарь",
+          "example": "dict.clear()",
+          "learned": false
+        },
+        {
+          "cmd": "copy()",
+          "desc": "Создаёт копию словаря",
+          "example": "new = dict.copy()",
+          "learned": false
+        },
+        {
+          "cmd": "fromkeys()",
+          "desc": "Создаёт словарь из ключей с одинаковым значением",
+          "example": "dict.fromkeys([\"a\",\"b\"], 0)",
+          "learned": false
+        }
+      ]
+    },
+    "Кортежи и множества": {
+      "total": 12,
+      "learned": 0,
+      "commands": [
+        {
+          "cmd": "tuple()",
+          "desc": "Преобразует в кортеж (неизменяемый список)",
+          "example": "tuple([1,2,3])",
+          "learned": false
+        },
+        {
+          "cmd": "set()",
+          "desc": "Преобразует в множество (уникальные элементы)",
+          "example": "set([1,2,2,3]) → {1,2,3}",
+          "learned": false
+        },
+        {
+          "cmd": "frozenset()",
+          "desc": "Создаёт неизменяемое множество",
+          "example": "frozenset([1,2,3])",
+          "learned": false
+        },
+        {
+          "cmd": "add()",
+          "desc": "Добавляет элемент в множество",
+          "example": "set.add(5)",
+          "learned": false
+        },
+        {
+          "cmd": "remove()",
+          "desc": "Удаляет элемент из множества (ошибка если нет)",
+          "example": "set.remove(5)",
+          "learned": false
+        },
+        {
+          "cmd": "discard()",
+          "desc": "Удаляет элемент из множества (без ошибки)",
+          "example": "set.discard(5)",
+          "learned": false
+        },
+        {
+          "cmd": "union()",
+          "desc": "Объединение множеств",
+          "example": "set1.union(set2)",
+          "learned": false
+        },
+        {
+          "cmd": "intersection()",
+          "desc": "Пересечение множеств",
+          "example": "set1.intersection(set2)",
+          "learned": false
+        },
+        {
+          "cmd": "difference()",
+          "desc": "Разность множеств",
+          "example": "set1.difference(set2)",
+          "learned": false
+        },
+        {
+          "cmd": "symmetric_difference()",
+          "desc": "Симметричная разность",
+          "example": "set1.symmetric_difference(set2)",
+          "learned": false
+        },
+        {
+          "cmd": "issubset()",
+          "desc": "Проверяет является ли подмножеством",
+          "example": "set1.issubset(set2)",
+          "learned": false
+        },
+        {
+          "cmd": "issuperset()",
+          "desc": "Проверяет является ли надмножеством",
+          "example": "set1.issuperset(set2)",
+          "learned": false
+        }
+      ]
+    },
+    "Условные операторы": {
+      "total": 12,
+      "learned": 0,
+      "commands": [
+        {
+          "cmd": "if",
+          "desc": "Условный оператор",
+          "example": "if x > 0:\n    print(\"Positive\")",
+          "learned": false
+        },
+        {
+          "cmd": "else",
+          "desc": "Блок else для if",
+          "example": "else:\n    print(\"Not positive\")",
+          "learned": false
+        },
+        {
+          "cmd": "elif",
+          "desc": "Дополнительное условие",
+          "example": "elif x == 0:\n    print(\"Zero\")",
+          "learned": false
+        },
+        {
+          "cmd": "and",
+          "desc": "Логическое И",
+          "example": "if x > 0 and y > 0:",
+          "learned": false
+        },
+        {
+          "cmd": "or",
+          "desc": "Логическое ИЛИ",
+          "example": "if x > 0 or y > 0:",
+          "learned": false
+        },
+        {
+          "cmd": "not",
+          "desc": "Логическое НЕ",
+          "example": "if not x:",
+          "learned": false
+        },
+        {
+          "cmd": "in",
+          "desc": "Проверяет наличие в коллекции",
+          "example": "if 5 in lst:",
+          "learned": false
+        },
+        {
+          "cmd": "is",
+          "desc": "Проверяет идентичность объектов",
+          "example": "if x is None:",
+          "learned": false
+        },
+        {
+          "cmd": "pass",
+          "desc": "Пустая заглушка",
+          "example": "def func():\n    pass",
+          "learned": false
+        },
+        {
+          "cmd": "break",
+          "desc": "Выход из цикла",
+          "example": "if x == 5: break",
+          "learned": false
+        },
+        {
+          "cmd": "continue",
+          "desc": "Переход к следующей итерации",
+          "example": "if x == 5: continue",
+          "learned": false
+        },
+        {
+          "cmd": "match/case",
+          "desc": "Сопоставление с образцом (Python 3.10+)",
+          "example": "match x:\n    case 1: print(\"One\")",
+          "learned": false
+        }
+      ]
+    },
+    "Циклы": {
+      "total": 8,
+      "learned": 0,
+      "commands": [
+        {
+          "cmd": "for",
+          "desc": "Цикл по итератору",
+          "example": "for i in range(10):",
+          "learned": false
+        },
+        {
+          "cmd": "while",
+          "desc": "Цикл с условием",
+          "example": "while x < 10:",
+          "learned": false
+        },
+        {
+          "cmd": "range()",
+          "desc": "Генерирует последовательность чисел",
+          "example": "range(5) → 0,1,2,3,4",
+          "learned": false
+        },
+        {
+          "cmd": "iter()",
+          "desc": "Создаёт итератор из объекта",
+          "example": "it = iter([1,2,3])",
+          "learned": false
+        },
+        {
+          "cmd": "next()",
+          "desc": "Возвращает следующий элемент итератора",
+          "example": "next(it) → 1",
+          "learned": false
+        },
+        {
+          "cmd": "enumerate()",
+          "desc": "Цикл с индексом и значением",
+          "example": "for i, v in enumerate(lst):",
+          "learned": false
+        },
+        {
+          "cmd": "zip()",
+          "desc": "Параллельный перебор нескольких коллекций",
+          "example": "for a, b in zip(lst1, lst2):",
+          "learned": false
+        },
+        {
+          "cmd": "reversed()",
+          "desc": "Цикл в обратном порядке",
+          "example": "for i in reversed(range(5)):",
+          "learned": false
+        }
+      ]
+    },
+    "Функции": {
+      "total": 12,
+      "learned": 0,
+      "commands": [
+        {
+          "cmd": "def",
+          "desc": "Определение функции",
+          "example": "def my_func(x):\n    return x*2",
+          "learned": false
+        },
+        {
+          "cmd": "return",
+          "desc": "Возвращает значение из функции",
+          "example": "return result",
+          "learned": false
+        },
+        {
+          "cmd": "lambda",
+          "desc": "Анонимная функция",
+          "example": "lambda x: x*2",
+          "learned": false
+        },
+        {
+          "cmd": "args",
+          "desc": "Произвольное количество позиционных аргументов",
+          "example": "def func(*args):",
+          "learned": false
+        },
+        {
+          "cmd": "kwargs",
+          "desc": "Произвольное количество именованных аргументов",
+          "example": "def func(**kwargs):",
+          "learned": false
+        },
+        {
+          "cmd": "yield",
+          "desc": "Генератор (возвращает и приостанавливает)",
+          "example": "yield value",
+          "learned": false
+        },
+        {
+          "cmd": "global",
+          "desc": "Объявляет глобальную переменную",
+          "example": "global x",
+          "learned": false
+        },
+        {
+          "cmd": "nonlocal",
+          "desc": "Объявляет переменную из внешней функции",
+          "example": "nonlocal x",
+          "learned": false
+        },
+        {
+          "cmd": "decorator",
+          "desc": "Декоратор (изменяет поведение функции)",
+          "example": "@my_decorator\ndef func():",
+          "learned": false
+        },
+        {
+          "cmd": "staticmethod",
+          "desc": "Статический метод класса",
+          "example": "@staticmethod\ndef func():",
+          "learned": false
+        },
+        {
+          "cmd": "classmethod",
+          "desc": "Метод класса",
+          "example": "@classmethod\ndef func(cls):",
+          "learned": false
+        },
+        {
+          "cmd": "property",
+          "desc": "Свойство класса",
+          "example": "@property\ndef name(self):",
+          "learned": false
+        }
+      ]
+    },
+    "Классы и ООП": {
+      "total": 28,
+      "learned": 0,
+      "commands": [
+        {
+          "cmd": "class",
+          "desc": "Определение класса",
+          "example": "class MyClass:",
+          "learned": false
+        },
+        {
+          "cmd": "self",
+          "desc": "Ссылка на экземпляр класса",
+          "example": "def __init__(self):",
+          "learned": false
+        },
+        {
+          "cmd": "super()",
+          "desc": "Вызов метода родительского класса",
+          "example": "super().__init__()",
+          "learned": false
+        },
+        {
+          "cmd": "init",
+          "desc": "Конструктор класса (__init__)",
+          "example": "def __init__(self, name):\n    self.name = name",
+          "learned": false
+        },
+        {
+          "cmd": "str",
+          "desc": "Строковое представление объекта (__str__)",
+          "example": "def __str__(self):\n    return self.name",
+          "learned": false
+        },
+        {
+          "cmd": "repr",
+          "desc": "Формальное представление объекта (__repr__)",
+          "example": "def __repr__(self):\n    return f\"Class({self.name})\"",
+          "learned": false
+        },
+        {
+          "cmd": "len",
+          "desc": "Длина объекта (__len__)",
+          "example": "def __len__(self):\n    return len(self.data)",
+          "learned": false
+        },
+        {
+          "cmd": "getitem",
+          "desc": "Доступ по индексу (__getitem__)",
+          "example": "def __getitem__(self, key):\n    return self.data[key]",
+          "learned": false
+        },
+        {
+          "cmd": "setitem",
+          "desc": "Установка по индексу (__setitem__)",
+          "example": "def __setitem__(self, key, value):\n    self.data[key] = value",
+          "learned": false
+        },
+        {
+          "cmd": "delitem",
+          "desc": "Удаление по индексу (__delitem__)",
+          "example": "def __delitem__(self, key):\n    del self.data[key]",
+          "learned": false
+        },
+        {
+          "cmd": "contains",
+          "desc": "Проверка вхождения (__contains__)",
+          "example": "def __contains__(self, item):\n    return item in self.data",
+          "learned": false
+        },
+        {
+          "cmd": "call",
+          "desc": "Вызов объекта как функции (__call__)",
+          "example": "def __call__(self, x):\n    return x*2",
+          "learned": false
+        },
+        {
+          "cmd": "add",
+          "desc": "Сложение объектов (__add__)",
+          "example": "def __add__(self, other):\n    return self.value + other.value",
+          "learned": false
+        },
+        {
+          "cmd": "sub",
+          "desc": "Вычитание объектов (__sub__)",
+          "example": "def __sub__(self, other):\n    return self.value - other.value",
+          "learned": false
+        },
+        {
+          "cmd": "eq",
+          "desc": "Сравнение на равенство (__eq__)",
+          "example": "def __eq__(self, other):\n    return self.value == other.value",
+          "learned": false
+        },
+        {
+          "cmd": "lt",
+          "desc": "Сравнение меньше (__lt__)",
+          "example": "def __lt__(self, other):\n    return self.value < other.value",
+          "learned": false
+        },
+        {
+          "cmd": "gt",
+          "desc": "Сравнение больше (__gt__)",
+          "example": "def __gt__(self, other):\n    return self.value > other.value",
+          "learned": false
+        },
+        {
+          "cmd": "le",
+          "desc": "Сравнение меньше или равно (__le__)",
+          "example": "def __le__(self, other):\n    return self.value <= other.value",
+          "learned": false
+        },
+        {
+          "cmd": "ge",
+          "desc": "Сравнение больше или равно (__ge__)",
+          "example": "def __ge__(self, other):\n    return self.value >= other.value",
+          "learned": false
+        },
+        {
+          "cmd": "ne",
+          "desc": "Сравнение не равно (__ne__)",
+          "example": "def __ne__(self, other):\n    return self.value != other.value",
+          "learned": false
+        },
+        {
+          "cmd": "and",
+          "desc": "Логическое И (__and__)",
+          "example": "def __and__(self, other):\n    return self.value & other.value",
+          "learned": false
+        },
+        {
+          "cmd": "or",
+          "desc": "Логическое ИЛИ (__or__)",
+          "example": "def __or__(self, other):\n    return self.value | other.value",
+          "learned": false
+        },
+        {
+          "cmd": "xor",
+          "desc": "Исключающее ИЛИ (__xor__)",
+          "example": "def __xor__(self, other):\n    return self.value ^ other.value",
+          "learned": false
+        },
+        {
+          "cmd": "iter",
+          "desc": "Итератор (__iter__)",
+          "example": "def __iter__(self):\n    return iter(self.data)",
+          "learned": false
+        },
+        {
+          "cmd": "next",
+          "desc": "Следующий элемент (__next__)",
+          "example": "def __next__(self):\n    return next(self.data)",
+          "learned": false
+        },
+        {
+          "cmd": "enter",
+          "desc": "Вход в контекстный менеджер (__enter__)",
+          "example": "def __enter__(self):\n    return self",
+          "learned": false
+        },
+        {
+          "cmd": "exit",
+          "desc": "Выход из контекстного менеджера (__exit__)",
+          "example": "def __exit__(self, exc_type, exc_val, exc_tb):\n    self.close()",
+          "learned": false
+        },
+        {
+          "cmd": "new",
+          "desc": "Создание экземпляра (__new__)",
+          "example": "def __new__(cls, *args):\n    return super().__new__(cls)",
+          "learned": false
+        }
+      ]
+    },
+    "Работа с файлами": {
+      "total": 29,
+      "learned": 0,
+      "commands": [
+        {
+          "cmd": "open()",
+          "desc": "Открывает файл",
+          "example": "f = open(\"file.txt\", \"r\")",
+          "learned": false
+        },
+        {
+          "cmd": "read()",
+          "desc": "Читает весь файл",
+          "example": "content = f.read()",
+          "learned": false
+        },
+        {
+          "cmd": "readline()",
+          "desc": "Читает одну строку",
+          "example": "line = f.readline()",
+          "learned": false
+        },
+        {
+          "cmd": "readlines()",
+          "desc": "Читает все строки в список",
+          "example": "lines = f.readlines()",
+          "learned": false
+        },
+        {
+          "cmd": "write()",
+          "desc": "Записывает строку в файл",
+          "example": "f.write(\"Hello\")",
+          "learned": false
+        },
+        {
+          "cmd": "writelines()",
+          "desc": "Записывает список строк в файл",
+          "example": "f.writelines([\"a\",\"b\"])",
+          "learned": false
+        },
+        {
+          "cmd": "close()",
+          "desc": "Закрывает файл",
+          "example": "f.close()",
+          "learned": false
+        },
+        {
+          "cmd": "seek()",
+          "desc": "Перемещает курсор в файле",
+          "example": "f.seek(0)",
+          "learned": false
+        },
+        {
+          "cmd": "tell()",
+          "desc": "Возвращает позицию курсора",
+          "example": "pos = f.tell()",
+          "learned": false
+        },
+        {
+          "cmd": "with",
+          "desc": "Контекстный менеджер (автоматически закрывает файл)",
+          "example": "with open(\"file.txt\") as f:",
+          "learned": false
+        },
+        {
+          "cmd": "os",
+          "desc": "Модуль для работы с ОС (файлы, пути)",
+          "example": "import os",
+          "learned": false
+        },
+        {
+          "cmd": "os.path",
+          "desc": "Работа с путями файлов",
+          "example": "os.path.join(\"dir\", \"file.txt\")",
+          "learned": false
+        },
+        {
+          "cmd": "os.listdir()",
+          "desc": "Список файлов в директории",
+          "example": "os.listdir(\".\")",
+          "learned": false
+        },
+        {
+          "cmd": "os.mkdir()",
+          "desc": "Создаёт директорию",
+          "example": "os.mkdir(\"new_dir\")",
+          "learned": false
+        },
+        {
+          "cmd": "os.remove()",
+          "desc": "Удаляет файл",
+          "example": "os.remove(\"file.txt\")",
+          "learned": false
+        },
+        {
+          "cmd": "os.rename()",
+          "desc": "Переименовывает файл",
+          "example": "os.rename(\"old.txt\", \"new.txt\")",
+          "learned": false
+        },
+        {
+          "cmd": "os.walk()",
+          "desc": "Обходит все файлы в директориях",
+          "example": "for root, dirs, files in os.walk(\".\"):",
+          "learned": false
+        },
+        {
+          "cmd": "shutil",
+          "desc": "Модуль для работы с файлами (копирование, перемещение)",
+          "example": "import shutil",
+          "learned": false
+        },
+        {
+          "cmd": "shutil.copy()",
+          "desc": "Копирует файл",
+          "example": "shutil.copy(\"src.txt\", \"dst.txt\")",
+          "learned": false
+        },
+        {
+          "cmd": "shutil.move()",
+          "desc": "Перемещает файл",
+          "example": "shutil.move(\"src.txt\", \"dst.txt\")",
+          "learned": false
+        },
+        {
+          "cmd": "shutil.rmtree()",
+          "desc": "Удаляет директорию рекурсивно",
+          "example": "shutil.rmtree(\"dir\")",
+          "learned": false
+        },
+        {
+          "cmd": "json",
+          "desc": "Модуль для работы с JSON",
+          "example": "import json",
+          "learned": false
+        },
+        {
+          "cmd": "json.load()",
+          "desc": "Загружает JSON из файла",
+          "example": "data = json.load(f)",
+          "learned": false
+        },
+        {
+          "cmd": "json.loads()",
+          "desc": "Загружает JSON из строки",
+          "example": "data = json.loads(\"{\"a\":1}\")",
+          "learned": false
+        },
+        {
+          "cmd": "json.dump()",
+          "desc": "Сохраняет JSON в файл",
+          "example": "json.dump(data, f)",
+          "learned": false
+        },
+        {
+          "cmd": "json.dumps()",
+          "desc": "Преобразует в JSON строку",
+          "example": "json.dumps({\"a\":1})",
+          "learned": false
+        },
+        {
+          "cmd": "pickle",
+          "desc": "Модуль для сериализации объектов",
+          "example": "import pickle",
+          "learned": false
+        },
+        {
+          "cmd": "pickle.dump()",
+          "desc": "Сохраняет объект в файл",
+          "example": "pickle.dump(obj, f)",
+          "learned": false
+        },
+        {
+          "cmd": "pickle.load()",
+          "desc": "Загружает объект из файла",
+          "example": "obj = pickle.load(f)",
+          "learned": false
+        }
+      ]
+    },
+    "Модули и импорт": {
+      "total": 39,
+      "learned": 0,
+      "commands": [
+        {
+          "cmd": "import",
+          "desc": "Импортирует модуль",
+          "example": "import math",
+          "learned": false
+        },
+        {
+          "cmd": "from",
+          "desc": "Импортирует из модуля",
+          "example": "from math import sqrt",
+          "learned": false
+        },
+        {
+          "cmd": "as",
+          "desc": "Псевдоним для модуля",
+          "example": "import numpy as np",
+          "learned": false
+        },
+        {
+          "cmd": "sys",
+          "desc": "Модуль для работы с системой",
+          "example": "import sys",
+          "learned": false
+        },
+        {
+          "cmd": "sys.argv",
+          "desc": "Аргументы командной строки",
+          "example": "sys.argv",
+          "learned": false
+        },
+        {
+          "cmd": "sys.exit()",
+          "desc": "Завершает программу",
+          "example": "sys.exit(0)",
+          "learned": false
+        },
+        {
+          "cmd": "sys.path",
+          "desc": "Пути поиска модулей",
+          "example": "sys.path.append(\"/my/path\")",
+          "learned": false
+        },
+        {
+          "cmd": "math",
+          "desc": "Математический модуль",
+          "example": "import math",
+          "learned": false
+        },
+        {
+          "cmd": "math.sqrt()",
+          "desc": "Квадратный корень",
+          "example": "math.sqrt(16) → 4.0",
+          "learned": false
+        },
+        {
+          "cmd": "math.pi",
+          "desc": "Число Пи",
+          "example": "math.pi → 3.14159",
+          "learned": false
+        },
+        {
+          "cmd": "math.sin()",
+          "desc": "Синус",
+          "example": "math.sin(0) → 0.0",
+          "learned": false
+        },
+        {
+          "cmd": "math.cos()",
+          "desc": "Косинус",
+          "example": "math.cos(0) → 1.0",
+          "learned": false
+        },
+        {
+          "cmd": "math.tan()",
+          "desc": "Тангенс",
+          "example": "math.tan(0) → 0.0",
+          "learned": false
+        },
+        {
+          "cmd": "math.log()",
+          "desc": "Натуральный логарифм",
+          "example": "math.log(10)",
+          "learned": false
+        },
+        {
+          "cmd": "math.exp()",
+          "desc": "Экспонента",
+          "example": "math.exp(1) → 2.718",
+          "learned": false
+        },
+        {
+          "cmd": "math.factorial()",
+          "desc": "Факториал",
+          "example": "math.factorial(5) → 120",
+          "learned": false
+        },
+        {
+          "cmd": "random",
+          "desc": "Модуль для работы со случайными числами",
+          "example": "import random",
+          "learned": false
+        },
+        {
+          "cmd": "random.random()",
+          "desc": "Случайное число от 0 до 1",
+          "example": "random.random()",
+          "learned": false
+        },
+        {
+          "cmd": "random.randint()",
+          "desc": "Случайное целое число",
+          "example": "random.randint(1, 10)",
+          "learned": false
+        },
+        {
+          "cmd": "random.choice()",
+          "desc": "Случайный элемент из списка",
+          "example": "random.choice([\"a\",\"b\",\"c\"])",
+          "learned": false
+        },
+        {
+          "cmd": "random.shuffle()",
+          "desc": "Перемешивает список",
+          "example": "random.shuffle(lst)",
+          "learned": false
+        },
+        {
+          "cmd": "random.sample()",
+          "desc": "Случайная выборка из списка",
+          "example": "random.sample(lst, 3)",
+          "learned": false
+        },
+        {
+          "cmd": "random.seed()",
+          "desc": "Устанавливает seed для воспроизводимости",
+          "example": "random.seed(42)",
+          "learned": false
+        },
+        {
+          "cmd": "datetime",
+          "desc": "Модуль для работы с датой и временем",
+          "example": "import datetime",
+          "learned": false
+        },
+        {
+          "cmd": "datetime.datetime.now()",
+          "desc": "Текущая дата и время",
+          "example": "datetime.datetime.now()",
+          "learned": false
+        },
+        {
+          "cmd": "datetime.timedelta()",
+          "desc": "Разница во времени",
+          "example": "datetime.timedelta(days=1)",
+          "learned": false
+        },
+        {
+          "cmd": "time",
+          "desc": "Модуль для работы со временем",
+          "example": "import time",
+          "learned": false
+        },
+        {
+          "cmd": "time.sleep()",
+          "desc": "Приостанавливает выполнение",
+          "example": "time.sleep(1) # 1 секунда",
+          "learned": false
+        },
+        {
+          "cmd": "time.time()",
+          "desc": "Текущее время в секундах (Unix timestamp)",
+          "example": "time.time()",
+          "learned": false
+        },
+        {
+          "cmd": "re",
+          "desc": "Регулярные выражения",
+          "example": "import re",
+          "learned": false
+        },
+        {
+          "cmd": "re.search()",
+          "desc": "Ищет совпадение",
+          "example": "re.search(r\"\\d+\", \"abc123\")",
+          "learned": false
+        },
+        {
+          "cmd": "re.match()",
+          "desc": "Проверяет совпадение с начала",
+          "example": "re.match(r\"\\d+\", \"123abc\")",
+          "learned": false
+        },
+        {
+          "cmd": "re.findall()",
+          "desc": "Находит все совпадения",
+          "example": "re.findall(r\"\\d+\", \"a1b2c3\") → [\"1\",\"2\",\"3\"]",
+          "learned": false
+        },
+        {
+          "cmd": "re.sub()",
+          "desc": "Заменяет по регулярному выражению",
+          "example": "re.sub(r\"\\d\", \"X\", \"a1b2\") → \"aXbX\"",
+          "learned": false
+        },
+        {
+          "cmd": "re.split()",
+          "desc": "Разбивает по регулярному выражению",
+          "example": "re.split(r\"\\s+\", \"a b c\") → [\"a\",\"b\",\"c\"]",
+          "learned": false
+        },
+        {
+          "cmd": "subprocess",
+          "desc": "Модуль для запуска внешних программ",
+          "example": "import subprocess",
+          "learned": false
+        },
+        {
+          "cmd": "subprocess.run()",
+          "desc": "Запускает внешнюю программу",
+          "example": "subprocess.run([\"ls\", \"-la\"])",
+          "learned": false
+        },
+        {
+          "cmd": "subprocess.Popen()",
+          "desc": "Запускает процесс с управлением",
+          "example": "p = subprocess.Popen([\"python\", \"script.py\"])",
+          "learned": false
+        },
+        {
+          "cmd": "os.environ",
+          "desc": "Переменные окружения",
+          "example": "os.environ[\"PATH\"]",
+          "learned": false
+        }
+      ]
+    },
+    "Исключения": {
+      "total": 20,
+      "learned": 0,
+      "commands": [
+        {
+          "cmd": "try",
+          "desc": "Блок для перехвата исключений",
+          "example": "try:\n    x = 1/0",
+          "learned": false
+        },
+        {
+          "cmd": "except",
+          "desc": "Перехватывает исключение",
+          "example": "except ZeroDivisionError:",
+          "learned": false
+        },
+        {
+          "cmd": "finally",
+          "desc": "Выполняется всегда (даже при ошибке)",
+          "example": "finally:\n    file.close()",
+          "learned": false
+        },
+        {
+          "cmd": "else",
+          "desc": "Выполняется если не было исключения",
+          "example": "else:\n    print(\"Success\")",
+          "learned": false
+        },
+        {
+          "cmd": "raise",
+          "desc": "Генерирует исключение",
+          "example": "raise ValueError(\"Invalid input\")",
+          "learned": false
+        },
+        {
+          "cmd": "assert",
+          "desc": "Проверяет условие (ошибка если False)",
+          "example": "assert x > 0, \"x must be positive\"",
+          "learned": false
+        },
+        {
+          "cmd": "Exception",
+          "desc": "Базовый класс для всех исключений",
+          "example": "try:\n    ...\nexcept Exception as e:",
+          "learned": false
+        },
+        {
+          "cmd": "ValueError",
+          "desc": "Исключение при неправильном значении",
+          "example": "raise ValueError(\"Wrong value\")",
+          "learned": false
+        },
+        {
+          "cmd": "TypeError",
+          "desc": "Исключение при неправильном типе",
+          "example": "int(\"abc\") → TypeError",
+          "learned": false
+        },
+        {
+          "cmd": "IndexError",
+          "desc": "Исключение при выходе за границы",
+          "example": "lst[100] → IndexError",
+          "learned": false
+        },
+        {
+          "cmd": "KeyError",
+          "desc": "Исключение при отсутствии ключа",
+          "example": "dict[\"missing\"] → KeyError",
+          "learned": false
+        },
+        {
+          "cmd": "FileNotFoundError",
+          "desc": "Исключение при отсутствии файла",
+          "example": "open(\"missing.txt\") → FileNotFoundError",
+          "learned": false
+        },
+        {
+          "cmd": "StopIteration",
+          "desc": "Исключение при окончании итерации",
+          "example": "next(iter([])) → StopIteration",
+          "learned": false
+        },
+        {
+          "cmd": "ImportError",
+          "desc": "Исключение при ошибке импорта",
+          "example": "import missing_module → ImportError",
+          "learned": false
+        },
+        {
+          "cmd": "NameError",
+          "desc": "Исключение при использовании неопределённой переменной",
+          "example": "print(undefined_var) → NameError",
+          "learned": false
+        },
+        {
+          "cmd": "AttributeError",
+          "desc": "Исключение при обращении к несуществующему атрибуту",
+          "example": "obj.missing_method() → AttributeError",
+          "learned": false
+        },
+        {
+          "cmd": "SyntaxError",
+          "desc": "Исключение при синтаксической ошибке",
+          "example": "if x > 0: print(x) → SyntaxError",
+          "learned": false
+        },
+        {
+          "cmd": "IndentationError",
+          "desc": "Исключение при неправильных отступах",
+          "example": "def func():\nprint(\"x\") → IndentationError",
+          "learned": false
+        },
+        {
+          "cmd": "MemoryError",
+          "desc": "Исключение при нехватке памяти",
+          "example": "Заполнение всей памяти → MemoryError",
+          "learned": false
+        },
+        {
+          "cmd": "TimeoutError",
+          "desc": "Исключение при превышении времени ожидания",
+          "example": "Операция заняла слишком много времени → TimeoutError",
+          "learned": false
+        }
+      ]
+    },
+    "Встроенные функции": {
+      "total": 47,
+      "learned": 0,
+      "commands": [
+        {
+          "cmd": "abs()",
+          "desc": "Возвращает абсолютное значение числа",
+          "example": "abs(-5) → 5",
+          "learned": false
+        },
+        {
+          "cmd": "bin()",
+          "desc": "Преобразует число в двоичную строку",
+          "example": "bin(10) → \"0b1010\"",
+          "learned": false
+        },
+        {
+          "cmd": "hex()",
+          "desc": "Преобразует число в шестнадцатеричную строку",
+          "example": "hex(255) → \"0xff\"",
+          "learned": false
+        },
+        {
+          "cmd": "oct()",
+          "desc": "Преобразует число в восьмеричную строку",
+          "example": "oct(8) → \"0o10\"",
+          "learned": false
+        },
+        {
+          "cmd": "chr()",
+          "desc": "Преобразует код Unicode в символ",
+          "example": "chr(65) → \"A\"",
+          "learned": false
+        },
+        {
+          "cmd": "ord()",
+          "desc": "Преобразует символ в код Unicode",
+          "example": "ord(\"A\") → 65",
+          "learned": false
+        },
+        {
+          "cmd": "round()",
+          "desc": "Округляет число",
+          "example": "round(3.14) → 3",
+          "learned": false
+        },
+        {
+          "cmd": "pow()",
+          "desc": "Возводит число в степень",
+          "example": "pow(2, 3) → 8",
+          "learned": false
+        },
+        {
+          "cmd": "divmod()",
+          "desc": "Возвращает частное и остаток",
+          "example": "divmod(10, 3) → (3, 1)",
+          "learned": false
+        },
+        {
+          "cmd": "hash()",
+          "desc": "Возвращает хеш объекта",
+          "example": "hash(\"hello\")",
+          "learned": false
+        },
+        {
+          "cmd": "sorted()",
+          "desc": "Возвращает отсортированный список",
+          "example": "sorted([3,1,2]) → [1,2,3]",
+          "learned": false
+        },
+        {
+          "cmd": "reversed()",
+          "desc": "Возвращает итератор в обратном порядке",
+          "example": "list(reversed([1,2,3])) → [3,2,1]",
+          "learned": false
+        },
+        {
+          "cmd": "enumerate()",
+          "desc": "Возвращает пары (индекс, элемент)",
+          "example": "list(enumerate([\"a\",\"b\"])) → [(0,\"a\"),(1,\"b\")]",
+          "learned": false
+        },
+        {
+          "cmd": "zip()",
+          "desc": "Объединяет несколько коллекций",
+          "example": "list(zip([1,2], [\"a\",\"b\"])) → [(1,\"a\"),(2,\"b\")]",
+          "learned": false
+        },
+        {
+          "cmd": "map()",
+          "desc": "Применяет функцию к каждому элементу",
+          "example": "list(map(str, [1,2,3])) → [\"1\",\"2\",\"3\"]",
+          "learned": false
+        },
+        {
+          "cmd": "filter()",
+          "desc": "Фильтрует элементы",
+          "example": "list(filter(lambda x: x>0, [-1,0,1])) → [1]",
+          "learned": false
+        },
+        {
+          "cmd": "reduce()",
+          "desc": "Сворачивает коллекцию (нужен functools)",
+          "example": "from functools import reduce; reduce(lambda a,b: a+b, [1,2,3]) → 6",
+          "learned": false
+        },
+        {
+          "cmd": "any()",
+          "desc": "True если хоть один элемент True",
+          "example": "any([False, True]) → True",
+          "learned": false
+        },
+        {
+          "cmd": "all()",
+          "desc": "True если все элементы True",
+          "example": "all([True, True]) → True",
+          "learned": false
+        },
+        {
+          "cmd": "sum()",
+          "desc": "Суммирует элементы",
+          "example": "sum([1,2,3]) → 6",
+          "learned": false
+        },
+        {
+          "cmd": "min()",
+          "desc": "Минимальный элемент",
+          "example": "min([1,2,3]) → 1",
+          "learned": false
+        },
+        {
+          "cmd": "max()",
+          "desc": "Максимальный элемент",
+          "example": "max([1,2,3]) → 3",
+          "learned": false
+        },
+        {
+          "cmd": "len()",
+          "desc": "Длина коллекции",
+          "example": "len([1,2,3]) → 3",
+          "learned": false
+        },
+        {
+          "cmd": "type()",
+          "desc": "Тип объекта",
+          "example": "type(5) → <class \"int\">",
+          "learned": false
+        },
+        {
+          "cmd": "id()",
+          "desc": "Идентификатор объекта",
+          "example": "id(obj)",
+          "learned": false
+        },
+        {
+          "cmd": "dir()",
+          "desc": "Список атрибутов объекта",
+          "example": "dir([])",
+          "learned": false
+        },
+        {
+          "cmd": "help()",
+          "desc": "Справка по объекту",
+          "example": "help(print)",
+          "learned": false
+        },
+        {
+          "cmd": "open()",
+          "desc": "Открывает файл",
+          "example": "open(\"file.txt\")",
+          "learned": false
+        },
+        {
+          "cmd": "input()",
+          "desc": "Ввод с клавиатуры",
+          "example": "input(\"Enter name: \")",
+          "learned": false
+        },
+        {
+          "cmd": "print()",
+          "desc": "Вывод на экран",
+          "example": "print(\"Hello\")",
+          "learned": false
+        },
+        {
+          "cmd": "str()",
+          "desc": "Преобразует в строку",
+          "example": "str(123) → \"123\"",
+          "learned": false
+        },
+        {
+          "cmd": "int()",
+          "desc": "Преобразует в целое число",
+          "example": "int(\"123\") → 123",
+          "learned": false
+        },
+        {
+          "cmd": "float()",
+          "desc": "Преобразует в число с плавающей точкой",
+          "example": "float(\"3.14\") → 3.14",
+          "learned": false
+        },
+        {
+          "cmd": "bool()",
+          "desc": "Преобразует в булево значение",
+          "example": "bool(0) → False",
+          "learned": false
+        },
+        {
+          "cmd": "list()",
+          "desc": "Преобразует в список",
+          "example": "list(\"abc\") → [\"a\",\"b\",\"c\"]",
+          "learned": false
+        },
+        {
+          "cmd": "tuple()",
+          "desc": "Преобразует в кортеж",
+          "example": "tuple([1,2,3]) → (1,2,3)",
+          "learned": false
+        },
+        {
+          "cmd": "dict()",
+          "desc": "Преобразует в словарь",
+          "example": "dict([(\"a\",1),(\"b\",2)]) → {\"a\":1,\"b\":2}",
+          "learned": false
+        },
+        {
+          "cmd": "set()",
+          "desc": "Преобразует в множество",
+          "example": "set([1,2,2,3]) → {1,2,3}",
+          "learned": false
+        },
+        {
+          "cmd": "frozenset()",
+          "desc": "Преобразует в неизменяемое множество",
+          "example": "frozenset([1,2,3])",
+          "learned": false
+        },
+        {
+          "cmd": "iter()",
+          "desc": "Создаёт итератор",
+          "example": "iter([1,2,3])",
+          "learned": false
+        },
+        {
+          "cmd": "next()",
+          "desc": "Следующий элемент итератора",
+          "example": "next(iter([1,2,3])) → 1",
+          "learned": false
+        },
+        {
+          "cmd": "range()",
+          "desc": "Генерирует последовательность чисел",
+          "example": "list(range(5)) → [0,1,2,3,4]",
+          "learned": false
+        },
+        {
+          "cmd": "slice()",
+          "desc": "Создаёт срез",
+          "example": "slice(1, 4, 2)",
+          "learned": false
+        },
+        {
+          "cmd": "super()",
+          "desc": "Вызов метода родительского класса",
+          "example": "super().__init__()",
+          "learned": false
+        },
+        {
+          "cmd": "property()",
+          "desc": "Создаёт свойство класса",
+          "example": "property(getter, setter)",
+          "learned": false
+        },
+        {
+          "cmd": "staticmethod()",
+          "desc": "Создаёт статический метод",
+          "example": "staticmethod(func)",
+          "learned": false
+        },
+        {
+          "cmd": "classmethod()",
+          "desc": "Создаёт метод класса",
+          "example": "classmethod(func)",
+          "learned": false
+        }
+      ]
+    }
+  },
+  "learned_list": []
+}
