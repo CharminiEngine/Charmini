@@ -1,0 +1,2372 @@
+{
+  "qa": [
+    {
+      "q": "Что такое Be used to?",
+      "a": "\"Be used to\" is used to talk about imaginary or hypothetical situations. Example: \"She works every day.\""
+    },
+    {
+      "q": "Расскажи про Be used to",
+      "a": "\"Be used to\" is used to talk about imaginary or hypothetical situations. Example: \"She works every day.\""
+    },
+    {
+      "q": "Правило Be used to",
+      "a": "\"Be used to\" is used to talk about imaginary or hypothetical situations. Example: \"She works every day.\""
+    },
+    {
+      "q": "Объясни Be used to",
+      "a": "\"Be used to\" is used to talk about imaginary or hypothetical situations. Example: \"She works every day.\""
+    },
+    {
+      "q": "Пример Be used to",
+      "a": "Example: \"She works every day.\""
+    },
+    {
+      "q": "Что такое Could?",
+      "a": "verb: (auxiliary verb, defective) To know how to; to be able to.. noun: Something that could happen, or could be the case, under different circumstances; a potentiality..  She can speak English, French, and German.   I can play football.   Can you remember your fifth birthday?"
+    },
+    {
+      "q": "Расскажи про Could",
+      "a": "verb: (auxiliary verb, defective) To know how to; to be able to.. noun: Something that could happen, or could be the case, under different circumstances; a potentiality..  She can speak English, French, and German.   I can play football.   Can you remember your fifth birthday?"
+    },
+    {
+      "q": "Правило Could",
+      "a": "verb: (auxiliary verb, defective) To know how to; to be able to.. noun: Something that could happen, or could be the case, under different circumstances; a potentiality..  She can speak English, French, and German.   I can play football.   Can you remember your fifth birthday?"
+    },
+    {
+      "q": "Объясни Could",
+      "a": "verb: (auxiliary verb, defective) To know how to; to be able to.. noun: Something that could happen, or could be the case, under different circumstances; a potentiality..  She can speak English, French, and German.   I can play football.   Can you remember your fifth birthday?"
+    },
+    {
+      "q": "Пример Could",
+      "a": "She can speak English, French, and German.   I can play football.   Can you remember your fifth birthday?"
+    },
+    {
+      "q": "Что такое Proper nouns?",
+      "a": "noun: (grammar) A noun denoting a particular person, place, organization, ship, animal, event, or other individual entity.  Example using \"Proper nouns\""
+    },
+    {
+      "q": "Расскажи про Proper nouns",
+      "a": "noun: (grammar) A noun denoting a particular person, place, organization, ship, animal, event, or other individual entity.  Example using \"Proper nouns\""
+    },
+    {
+      "q": "Правило Proper nouns",
+      "a": "noun: (grammar) A noun denoting a particular person, place, organization, ship, animal, event, or other individual entity.  Example using \"Proper nouns\""
+    },
+    {
+      "q": "Объясни Proper nouns",
+      "a": "noun: (grammar) A noun denoting a particular person, place, organization, ship, animal, event, or other individual entity.  Example using \"Proper nouns\""
+    },
+    {
+      "q": "Пример Proper nouns",
+      "a": "Example using \"Proper nouns\""
+    },
+    {
+      "q": "Что такое Adverbs of frequency?",
+      "a": "\"Adverbs of frequency\" is used to talk about future actions, predictions, promises. Example: \"She works every day.\""
+    },
+    {
+      "q": "Расскажи про Adverbs of frequency",
+      "a": "\"Adverbs of frequency\" is used to talk about future actions, predictions, promises. Example: \"She works every day.\""
+    },
+    {
+      "q": "Правило Adverbs of frequency",
+      "a": "\"Adverbs of frequency\" is used to talk about future actions, predictions, promises. Example: \"She works every day.\""
+    },
+    {
+      "q": "Объясни Adverbs of frequency",
+      "a": "\"Adverbs of frequency\" is used to talk about future actions, predictions, promises. Example: \"She works every day.\""
+    },
+    {
+      "q": "Пример Adverbs of frequency",
+      "a": "Example: \"She works every day.\""
+    },
+    {
+      "q": "Что такое Will vs going to?",
+      "a": "\"Will vs going to\" is used to express general truths, real situations, and consequences. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Расскажи про Will vs going to",
+      "a": "\"Will vs going to\" is used to express general truths, real situations, and consequences. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Правило Will vs going to",
+      "a": "\"Will vs going to\" is used to express general truths, real situations, and consequences. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Объясни Will vs going to",
+      "a": "\"Will vs going to\" is used to express general truths, real situations, and consequences. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Пример Will vs going to",
+      "a": "Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Что такое Despite in spite of?",
+      "a": "\"Despite in spite of\" is used to express general truths, real situations, and consequences. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Расскажи про Despite in spite of",
+      "a": "\"Despite in spite of\" is used to express general truths, real situations, and consequences. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Правило Despite in spite of",
+      "a": "\"Despite in spite of\" is used to express general truths, real situations, and consequences. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Объясни Despite in spite of",
+      "a": "\"Despite in spite of\" is used to express general truths, real situations, and consequences. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Пример Despite in spite of",
+      "a": "Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Что такое Comparative adverbs?",
+      "a": "\"Comparative adverbs\" is used to talk about completed actions in the past. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Расскажи про Comparative adverbs",
+      "a": "\"Comparative adverbs\" is used to talk about completed actions in the past. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Правило Comparative adverbs",
+      "a": "\"Comparative adverbs\" is used to talk about completed actions in the past. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Объясни Comparative adverbs",
+      "a": "\"Comparative adverbs\" is used to talk about completed actions in the past. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Пример Comparative adverbs",
+      "a": "Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Что такое Passive voice present?",
+      "a": "\"Passive voice present\" is used to combine sentences or ideas into more complex structures. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Расскажи про Passive voice present",
+      "a": "\"Passive voice present\" is used to combine sentences or ideas into more complex structures. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Правило Passive voice present",
+      "a": "\"Passive voice present\" is used to combine sentences or ideas into more complex structures. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Объясни Passive voice present",
+      "a": "\"Passive voice present\" is used to combine sentences or ideas into more complex structures. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Пример Passive voice present",
+      "a": "Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Что такое Wish clauses?",
+      "a": "\"Wish clauses\" is used to talk about imaginary or hypothetical situations. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Расскажи про Wish clauses",
+      "a": "\"Wish clauses\" is used to talk about imaginary or hypothetical situations. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Правило Wish clauses",
+      "a": "\"Wish clauses\" is used to talk about imaginary or hypothetical situations. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Объясни Wish clauses",
+      "a": "\"Wish clauses\" is used to talk about imaginary or hypothetical situations. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Пример Wish clauses",
+      "a": "Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Что такое Future continuous?",
+      "a": "\"Future continuous\" is used to express ownership, relationship, or existence. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Расскажи про Future continuous",
+      "a": "\"Future continuous\" is used to express ownership, relationship, or existence. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Правило Future continuous",
+      "a": "\"Future continuous\" is used to express ownership, relationship, or existence. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Объясни Future continuous",
+      "a": "\"Future continuous\" is used to express ownership, relationship, or existence. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Пример Future continuous",
+      "a": "Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Что такое Past simple?",
+      "a": "\"Past simple\" is used to talk about completed actions in the past. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Расскажи про Past simple",
+      "a": "\"Past simple\" is used to talk about completed actions in the past. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Правило Past simple",
+      "a": "\"Past simple\" is used to talk about completed actions in the past. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Объясни Past simple",
+      "a": "\"Past simple\" is used to talk about completed actions in the past. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Пример Past simple",
+      "a": "Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Что такое Collective nouns?",
+      "a": "\"Collective nouns\" is used to describe actions that are happening right now or temporary situations. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Расскажи про Collective nouns",
+      "a": "\"Collective nouns\" is used to describe actions that are happening right now or temporary situations. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Правило Collective nouns",
+      "a": "\"Collective nouns\" is used to describe actions that are happening right now or temporary situations. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Объясни Collective nouns",
+      "a": "\"Collective nouns\" is used to describe actions that are happening right now or temporary situations. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Пример Collective nouns",
+      "a": "Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Что такое Passive voice past?",
+      "a": "\"Passive voice past\" is used to combine sentences or ideas into more complex structures. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Расскажи про Passive voice past",
+      "a": "\"Passive voice past\" is used to combine sentences or ideas into more complex structures. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Правило Passive voice past",
+      "a": "\"Passive voice past\" is used to combine sentences or ideas into more complex structures. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Объясни Passive voice past",
+      "a": "\"Passive voice past\" is used to combine sentences or ideas into more complex structures. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Пример Passive voice past",
+      "a": "Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Что такое Emphatic do?",
+      "a": "\"Emphatic do\" is used to compare two things, people, or situations. Example: \"This is my house.\""
+    },
+    {
+      "q": "Расскажи про Emphatic do",
+      "a": "\"Emphatic do\" is used to compare two things, people, or situations. Example: \"This is my house.\""
+    },
+    {
+      "q": "Правило Emphatic do",
+      "a": "\"Emphatic do\" is used to compare two things, people, or situations. Example: \"This is my house.\""
+    },
+    {
+      "q": "Объясни Emphatic do",
+      "a": "\"Emphatic do\" is used to compare two things, people, or situations. Example: \"This is my house.\""
+    },
+    {
+      "q": "Пример Emphatic do",
+      "a": "Example: \"This is my house.\""
+    },
+    {
+      "q": "Что такое Might?",
+      "a": "\"Might\" is used to create sentences where the subject is acted upon. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Расскажи про Might",
+      "a": "\"Might\" is used to create sentences where the subject is acted upon. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Правило Might",
+      "a": "\"Might\" is used to create sentences where the subject is acted upon. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Объясни Might",
+      "a": "\"Might\" is used to create sentences where the subject is acted upon. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Пример Might",
+      "a": "Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Что такое Neither either?",
+      "a": "\"Neither either\" is used to express actions that happen regularly or are facts. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Расскажи про Neither either",
+      "a": "\"Neither either\" is used to express actions that happen regularly or are facts. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Правило Neither either",
+      "a": "\"Neither either\" is used to express actions that happen regularly or are facts. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Объясни Neither either",
+      "a": "\"Neither either\" is used to express actions that happen regularly or are facts. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Пример Neither either",
+      "a": "Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Что такое Comparative adjectives?",
+      "a": "\"Comparative adjectives\" is used to express general truths, real situations, and consequences. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Расскажи про Comparative adjectives",
+      "a": "\"Comparative adjectives\" is used to express general truths, real situations, and consequences. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Правило Comparative adjectives",
+      "a": "\"Comparative adjectives\" is used to express general truths, real situations, and consequences. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Объясни Comparative adjectives",
+      "a": "\"Comparative adjectives\" is used to express general truths, real situations, and consequences. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Пример Comparative adjectives",
+      "a": "Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Что такое Mixed conditionals?",
+      "a": "\"Mixed conditionals\" is used to form questions, negatives, and emphasis. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Расскажи про Mixed conditionals",
+      "a": "\"Mixed conditionals\" is used to form questions, negatives, and emphasis. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Правило Mixed conditionals",
+      "a": "\"Mixed conditionals\" is used to form questions, negatives, and emphasis. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Объясни Mixed conditionals",
+      "a": "\"Mixed conditionals\" is used to form questions, negatives, and emphasis. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Пример Mixed conditionals",
+      "a": "Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Что такое Prepositions of place?",
+      "a": "\"Prepositions of place\" is used to create sentences where the subject is acted upon. Example: \"This is my house.\""
+    },
+    {
+      "q": "Расскажи про Prepositions of place",
+      "a": "\"Prepositions of place\" is used to create sentences where the subject is acted upon. Example: \"This is my house.\""
+    },
+    {
+      "q": "Правило Prepositions of place",
+      "a": "\"Prepositions of place\" is used to create sentences where the subject is acted upon. Example: \"This is my house.\""
+    },
+    {
+      "q": "Объясни Prepositions of place",
+      "a": "\"Prepositions of place\" is used to create sentences where the subject is acted upon. Example: \"This is my house.\""
+    },
+    {
+      "q": "Пример Prepositions of place",
+      "a": "Example: \"This is my house.\""
+    },
+    {
+      "q": "Что такое Modal verbs?",
+      "a": "\"Modal verbs\" is used to describe actions that are happening right now or temporary situations. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Расскажи про Modal verbs",
+      "a": "\"Modal verbs\" is used to describe actions that are happening right now or temporary situations. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Правило Modal verbs",
+      "a": "\"Modal verbs\" is used to describe actions that are happening right now or temporary situations. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Объясни Modal verbs",
+      "a": "\"Modal verbs\" is used to describe actions that are happening right now or temporary situations. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Пример Modal verbs",
+      "a": "Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Что такое Second conditional?",
+      "a": "\"Second conditional\" is used to form questions, negatives, and emphasis. Example: \"This is my house.\""
+    },
+    {
+      "q": "Расскажи про Second conditional",
+      "a": "\"Second conditional\" is used to form questions, negatives, and emphasis. Example: \"This is my house.\""
+    },
+    {
+      "q": "Правило Second conditional",
+      "a": "\"Second conditional\" is used to form questions, negatives, and emphasis. Example: \"This is my house.\""
+    },
+    {
+      "q": "Объясни Second conditional",
+      "a": "\"Second conditional\" is used to form questions, negatives, and emphasis. Example: \"This is my house.\""
+    },
+    {
+      "q": "Пример Second conditional",
+      "a": "Example: \"This is my house.\""
+    },
+    {
+      "q": "Что такое Prepositions of movement?",
+      "a": "\"Prepositions of movement\" is used to talk about completed actions in the past. Example: \"We will arrive tomorrow.\""
+    },
+    {
+      "q": "Расскажи про Prepositions of movement",
+      "a": "\"Prepositions of movement\" is used to talk about completed actions in the past. Example: \"We will arrive tomorrow.\""
+    },
+    {
+      "q": "Правило Prepositions of movement",
+      "a": "\"Prepositions of movement\" is used to talk about completed actions in the past. Example: \"We will arrive tomorrow.\""
+    },
+    {
+      "q": "Объясни Prepositions of movement",
+      "a": "\"Prepositions of movement\" is used to talk about completed actions in the past. Example: \"We will arrive tomorrow.\""
+    },
+    {
+      "q": "Пример Prepositions of movement",
+      "a": "Example: \"We will arrive tomorrow.\""
+    },
+    {
+      "q": "Что такое Prepositions of time?",
+      "a": "\"Prepositions of time\" is used to express ability, permission, obligation, or possibility. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Расскажи про Prepositions of time",
+      "a": "\"Prepositions of time\" is used to express ability, permission, obligation, or possibility. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Правило Prepositions of time",
+      "a": "\"Prepositions of time\" is used to express ability, permission, obligation, or possibility. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Объясни Prepositions of time",
+      "a": "\"Prepositions of time\" is used to express ability, permission, obligation, or possibility. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Пример Prepositions of time",
+      "a": "Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Что такое Have vs have got?",
+      "a": "\"Have vs have got\" is used to compare two things, people, or situations. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Расскажи про Have vs have got",
+      "a": "\"Have vs have got\" is used to compare two things, people, or situations. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Правило Have vs have got",
+      "a": "\"Have vs have got\" is used to compare two things, people, or situations. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Объясни Have vs have got",
+      "a": "\"Have vs have got\" is used to compare two things, people, or situations. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Пример Have vs have got",
+      "a": "Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Что такое Articles?",
+      "a": "\"Articles\" is used to report what someone else has said. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Расскажи про Articles",
+      "a": "\"Articles\" is used to report what someone else has said. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Правило Articles",
+      "a": "\"Articles\" is used to report what someone else has said. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Объясни Articles",
+      "a": "\"Articles\" is used to report what someone else has said. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Пример Articles",
+      "a": "Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Что такое Possessive pronouns?",
+      "a": "\"Possessive pronouns\" is used to express ownership, relationship, or existence. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Расскажи про Possessive pronouns",
+      "a": "\"Possessive pronouns\" is used to express ownership, relationship, or existence. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Правило Possessive pronouns",
+      "a": "\"Possessive pronouns\" is used to express ownership, relationship, or existence. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Объясни Possessive pronouns",
+      "a": "\"Possessive pronouns\" is used to express ownership, relationship, or existence. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Пример Possessive pronouns",
+      "a": "Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Что такое Future simple?",
+      "a": "\"Future simple\" is used to express actions that happen regularly or are facts. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Расскажи про Future simple",
+      "a": "\"Future simple\" is used to express actions that happen regularly or are facts. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Правило Future simple",
+      "a": "\"Future simple\" is used to express actions that happen regularly or are facts. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Объясни Future simple",
+      "a": "\"Future simple\" is used to express actions that happen regularly or are facts. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Пример Future simple",
+      "a": "Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Что такое Third conditional?",
+      "a": "\"Third conditional\" is used to express ability, permission, obligation, or possibility. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Расскажи про Third conditional",
+      "a": "\"Third conditional\" is used to express ability, permission, obligation, or possibility. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Правило Third conditional",
+      "a": "\"Third conditional\" is used to express ability, permission, obligation, or possibility. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Объясни Third conditional",
+      "a": "\"Third conditional\" is used to express ability, permission, obligation, or possibility. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Пример Third conditional",
+      "a": "Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Что такое Possessive adjectives?",
+      "a": "\"Possessive adjectives\" is used to form questions, negatives, and emphasis. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Расскажи про Possessive adjectives",
+      "a": "\"Possessive adjectives\" is used to form questions, negatives, and emphasis. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Правило Possessive adjectives",
+      "a": "\"Possessive adjectives\" is used to form questions, negatives, and emphasis. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Объясни Possessive adjectives",
+      "a": "\"Possessive adjectives\" is used to form questions, negatives, and emphasis. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Пример Possessive adjectives",
+      "a": "Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Что такое Present continuous?",
+      "a": "\"Present continuous\" is used to form questions, negatives, and emphasis. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Расскажи про Present continuous",
+      "a": "\"Present continuous\" is used to form questions, negatives, and emphasis. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Правило Present continuous",
+      "a": "\"Present continuous\" is used to form questions, negatives, and emphasis. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Объясни Present continuous",
+      "a": "\"Present continuous\" is used to form questions, negatives, and emphasis. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Пример Present continuous",
+      "a": "Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Что такое There is there are?",
+      "a": "\"There is there are\" is used to express general truths, real situations, and consequences. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Расскажи про There is there are",
+      "a": "\"There is there are\" is used to express general truths, real situations, and consequences. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Правило There is there are",
+      "a": "\"There is there are\" is used to express general truths, real situations, and consequences. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Объясни There is there are",
+      "a": "\"There is there are\" is used to express general truths, real situations, and consequences. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Пример There is there are",
+      "a": "Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Что такое Relative clauses non defining?",
+      "a": "\"Relative clauses non defining\" is used to talk about imaginary or hypothetical situations. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Расскажи про Relative clauses non defining",
+      "a": "\"Relative clauses non defining\" is used to talk about imaginary or hypothetical situations. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Правило Relative clauses non defining",
+      "a": "\"Relative clauses non defining\" is used to talk about imaginary or hypothetical situations. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Объясни Relative clauses non defining",
+      "a": "\"Relative clauses non defining\" is used to talk about imaginary or hypothetical situations. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Пример Relative clauses non defining",
+      "a": "Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Что такое Can?",
+      "a": "\"Can\" is used to describe frequency, manner, time, or place. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Расскажи про Can",
+      "a": "\"Can\" is used to describe frequency, manner, time, or place. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Правило Can",
+      "a": "\"Can\" is used to describe frequency, manner, time, or place. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Объясни Can",
+      "a": "\"Can\" is used to describe frequency, manner, time, or place. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Пример Can",
+      "a": "Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Что такое Both and?",
+      "a": "\"Both and\" is used to describe actions that are happening right now or temporary situations. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Расскажи про Both and",
+      "a": "\"Both and\" is used to describe actions that are happening right now or temporary situations. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Правило Both and",
+      "a": "\"Both and\" is used to describe actions that are happening right now or temporary situations. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Объясни Both and",
+      "a": "\"Both and\" is used to describe actions that are happening right now or temporary situations. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Пример Both and",
+      "a": "Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Что такое Future perfect continuous?",
+      "a": "\"Future perfect continuous\" is used to report what someone else has said. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Расскажи про Future perfect continuous",
+      "a": "\"Future perfect continuous\" is used to report what someone else has said. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Правило Future perfect continuous",
+      "a": "\"Future perfect continuous\" is used to report what someone else has said. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Объясни Future perfect continuous",
+      "a": "\"Future perfect continuous\" is used to report what someone else has said. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Пример Future perfect continuous",
+      "a": "Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Что такое There was there were?",
+      "a": "\"There was there were\" is used to talk about future actions, predictions, promises. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Расскажи про There was there were",
+      "a": "\"There was there were\" is used to talk about future actions, predictions, promises. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Правило There was there were",
+      "a": "\"There was there were\" is used to talk about future actions, predictions, promises. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Объясни There was there were",
+      "a": "\"There was there were\" is used to talk about future actions, predictions, promises. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Пример There was there were",
+      "a": "Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Что такое Passive voice future?",
+      "a": "\"Passive voice future\" is used to form questions, negatives, and emphasis. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Расскажи про Passive voice future",
+      "a": "\"Passive voice future\" is used to form questions, negatives, and emphasis. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Правило Passive voice future",
+      "a": "\"Passive voice future\" is used to form questions, negatives, and emphasis. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Объясни Passive voice future",
+      "a": "\"Passive voice future\" is used to form questions, negatives, and emphasis. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Пример Passive voice future",
+      "a": "Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Что такое Past participle?",
+      "a": "\"Past participle\" is used to create sentences where the subject is acted upon. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Расскажи про Past participle",
+      "a": "\"Past participle\" is used to create sentences where the subject is acted upon. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Правило Past participle",
+      "a": "\"Past participle\" is used to create sentences where the subject is acted upon. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Объясни Past participle",
+      "a": "\"Past participle\" is used to create sentences where the subject is acted upon. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Пример Past participle",
+      "a": "Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Что такое Must?",
+      "a": "\"Must\" is used to form questions, negatives, and emphasis. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Расскажи про Must",
+      "a": "\"Must\" is used to form questions, negatives, and emphasis. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Правило Must",
+      "a": "\"Must\" is used to form questions, negatives, and emphasis. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Объясни Must",
+      "a": "\"Must\" is used to form questions, negatives, and emphasis. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Пример Must",
+      "a": "Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Что такое It is construction?",
+      "a": "\"It is construction\" is used to express ownership, relationship, or existence. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Расскажи про It is construction",
+      "a": "\"It is construction\" is used to express ownership, relationship, or existence. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Правило It is construction",
+      "a": "\"It is construction\" is used to express ownership, relationship, or existence. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Объясни It is construction",
+      "a": "\"It is construction\" is used to express ownership, relationship, or existence. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Пример It is construction",
+      "a": "Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Что такое Would?",
+      "a": "\"Would\" is used to talk about completed actions in the past. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Расскажи про Would",
+      "a": "\"Would\" is used to talk about completed actions in the past. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Правило Would",
+      "a": "\"Would\" is used to talk about completed actions in the past. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Объясни Would",
+      "a": "\"Would\" is used to talk about completed actions in the past. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Пример Would",
+      "a": "Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Что такое Have got?",
+      "a": "\"Have got\" is used to describe actions that are happening right now or temporary situations. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Расскажи про Have got",
+      "a": "\"Have got\" is used to describe actions that are happening right now or temporary situations. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Правило Have got",
+      "a": "\"Have got\" is used to describe actions that are happening right now or temporary situations. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Объясни Have got",
+      "a": "\"Have got\" is used to describe actions that are happening right now or temporary situations. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Пример Have got",
+      "a": "Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Что такое Superlative adjectives?",
+      "a": "\"Superlative adjectives\" is used to talk about future actions, predictions, promises. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Расскажи про Superlative adjectives",
+      "a": "\"Superlative adjectives\" is used to talk about future actions, predictions, promises. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Правило Superlative adjectives",
+      "a": "\"Superlative adjectives\" is used to talk about future actions, predictions, promises. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Объясни Superlative adjectives",
+      "a": "\"Superlative adjectives\" is used to talk about future actions, predictions, promises. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Пример Superlative adjectives",
+      "a": "Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Что такое Reported speech questions?",
+      "a": "\"Reported speech questions\" is used to create sentences where the subject is acted upon. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Расскажи про Reported speech questions",
+      "a": "\"Reported speech questions\" is used to create sentences where the subject is acted upon. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Правило Reported speech questions",
+      "a": "\"Reported speech questions\" is used to create sentences where the subject is acted upon. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Объясни Reported speech questions",
+      "a": "\"Reported speech questions\" is used to create sentences where the subject is acted upon. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Пример Reported speech questions",
+      "a": "Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Что такое First conditional?",
+      "a": "\"First conditional\" is used to describe actions that are happening right now or temporary situations. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Расскажи про First conditional",
+      "a": "\"First conditional\" is used to describe actions that are happening right now or temporary situations. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Правило First conditional",
+      "a": "\"First conditional\" is used to describe actions that are happening right now or temporary situations. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Объясни First conditional",
+      "a": "\"First conditional\" is used to describe actions that are happening right now or temporary situations. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Пример First conditional",
+      "a": "Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Что такое Reflexive pronouns?",
+      "a": "\"Reflexive pronouns\" is used to create sentences where the subject is acted upon. Example: \"This is my house.\""
+    },
+    {
+      "q": "Расскажи про Reflexive pronouns",
+      "a": "\"Reflexive pronouns\" is used to create sentences where the subject is acted upon. Example: \"This is my house.\""
+    },
+    {
+      "q": "Правило Reflexive pronouns",
+      "a": "\"Reflexive pronouns\" is used to create sentences where the subject is acted upon. Example: \"This is my house.\""
+    },
+    {
+      "q": "Объясни Reflexive pronouns",
+      "a": "\"Reflexive pronouns\" is used to create sentences where the subject is acted upon. Example: \"This is my house.\""
+    },
+    {
+      "q": "Пример Reflexive pronouns",
+      "a": "Example: \"This is my house.\""
+    },
+    {
+      "q": "Что такое Because because of?",
+      "a": "\"Because because of\" is used to talk about imaginary or hypothetical situations. Example: \"She works every day.\""
+    },
+    {
+      "q": "Расскажи про Because because of",
+      "a": "\"Because because of\" is used to talk about imaginary or hypothetical situations. Example: \"She works every day.\""
+    },
+    {
+      "q": "Правило Because because of",
+      "a": "\"Because because of\" is used to talk about imaginary or hypothetical situations. Example: \"She works every day.\""
+    },
+    {
+      "q": "Объясни Because because of",
+      "a": "\"Because because of\" is used to talk about imaginary or hypothetical situations. Example: \"She works every day.\""
+    },
+    {
+      "q": "Пример Because because of",
+      "a": "Example: \"She works every day.\""
+    },
+    {
+      "q": "Что такое Reported speech commands?",
+      "a": "\"Reported speech commands\" is used to express general truths, real situations, and consequences. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Расскажи про Reported speech commands",
+      "a": "\"Reported speech commands\" is used to express general truths, real situations, and consequences. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Правило Reported speech commands",
+      "a": "\"Reported speech commands\" is used to express general truths, real situations, and consequences. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Объясни Reported speech commands",
+      "a": "\"Reported speech commands\" is used to express general truths, real situations, and consequences. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Пример Reported speech commands",
+      "a": "Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Что такое Adverbs of place?",
+      "a": "\"Adverbs of place\" is used to describe actions that are happening right now or temporary situations. Example: \"This is my house.\""
+    },
+    {
+      "q": "Расскажи про Adverbs of place",
+      "a": "\"Adverbs of place\" is used to describe actions that are happening right now or temporary situations. Example: \"This is my house.\""
+    },
+    {
+      "q": "Правило Adverbs of place",
+      "a": "\"Adverbs of place\" is used to describe actions that are happening right now or temporary situations. Example: \"This is my house.\""
+    },
+    {
+      "q": "Объясни Adverbs of place",
+      "a": "\"Adverbs of place\" is used to describe actions that are happening right now or temporary situations. Example: \"This is my house.\""
+    },
+    {
+      "q": "Пример Adverbs of place",
+      "a": "Example: \"This is my house.\""
+    },
+    {
+      "q": "Что такое Provided that?",
+      "a": "\"Provided that\" is used to compare two things, people, or situations. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Расскажи про Provided that",
+      "a": "\"Provided that\" is used to compare two things, people, or situations. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Правило Provided that",
+      "a": "\"Provided that\" is used to compare two things, people, or situations. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Объясни Provided that",
+      "a": "\"Provided that\" is used to compare two things, people, or situations. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Пример Provided that",
+      "a": "Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Что такое Past perfect?",
+      "a": "\"Past perfect\" is used to form questions, negatives, and emphasis. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Расскажи про Past perfect",
+      "a": "\"Past perfect\" is used to form questions, negatives, and emphasis. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Правило Past perfect",
+      "a": "\"Past perfect\" is used to form questions, negatives, and emphasis. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Объясни Past perfect",
+      "a": "\"Past perfect\" is used to form questions, negatives, and emphasis. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Пример Past perfect",
+      "a": "Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Что такое Perfect participle?",
+      "a": "\"Perfect participle\" is used to combine sentences or ideas into more complex structures. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Расскажи про Perfect participle",
+      "a": "\"Perfect participle\" is used to combine sentences or ideas into more complex structures. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Правило Perfect participle",
+      "a": "\"Perfect participle\" is used to combine sentences or ideas into more complex structures. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Объясни Perfect participle",
+      "a": "\"Perfect participle\" is used to combine sentences or ideas into more complex structures. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Пример Perfect participle",
+      "a": "Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Что такое Get used to?",
+      "a": "\"Get used to\" is used to compare two things, people, or situations. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Расскажи про Get used to",
+      "a": "\"Get used to\" is used to compare two things, people, or situations. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Правило Get used to",
+      "a": "\"Get used to\" is used to compare two things, people, or situations. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Объясни Get used to",
+      "a": "\"Get used to\" is used to compare two things, people, or situations. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Пример Get used to",
+      "a": "Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Что такое Zero conditional?",
+      "a": "\"Zero conditional\" is used to form questions, negatives, and emphasis. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Расскажи про Zero conditional",
+      "a": "\"Zero conditional\" is used to form questions, negatives, and emphasis. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Правило Zero conditional",
+      "a": "\"Zero conditional\" is used to form questions, negatives, and emphasis. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Объясни Zero conditional",
+      "a": "\"Zero conditional\" is used to form questions, negatives, and emphasis. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Пример Zero conditional",
+      "a": "Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Что такое Uncountable nouns?",
+      "a": "\"Uncountable nouns\" is used to talk about future actions, predictions, promises. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Расскажи про Uncountable nouns",
+      "a": "\"Uncountable nouns\" is used to talk about future actions, predictions, promises. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Правило Uncountable nouns",
+      "a": "\"Uncountable nouns\" is used to talk about future actions, predictions, promises. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Объясни Uncountable nouns",
+      "a": "\"Uncountable nouns\" is used to talk about future actions, predictions, promises. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Пример Uncountable nouns",
+      "a": "Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Что такое Tag questions?",
+      "a": "\"Tag questions\" is used to express general truths, real situations, and consequences. Example: \"We will arrive tomorrow.\""
+    },
+    {
+      "q": "Расскажи про Tag questions",
+      "a": "\"Tag questions\" is used to express general truths, real situations, and consequences. Example: \"We will arrive tomorrow.\""
+    },
+    {
+      "q": "Правило Tag questions",
+      "a": "\"Tag questions\" is used to express general truths, real situations, and consequences. Example: \"We will arrive tomorrow.\""
+    },
+    {
+      "q": "Объясни Tag questions",
+      "a": "\"Tag questions\" is used to express general truths, real situations, and consequences. Example: \"We will arrive tomorrow.\""
+    },
+    {
+      "q": "Пример Tag questions",
+      "a": "Example: \"We will arrive tomorrow.\""
+    },
+    {
+      "q": "Что такое Countable nouns?",
+      "a": "\"Countable nouns\" is used to talk about completed actions in the past. Example: \"This is my house.\""
+    },
+    {
+      "q": "Расскажи про Countable nouns",
+      "a": "\"Countable nouns\" is used to talk about completed actions in the past. Example: \"This is my house.\""
+    },
+    {
+      "q": "Правило Countable nouns",
+      "a": "\"Countable nouns\" is used to talk about completed actions in the past. Example: \"This is my house.\""
+    },
+    {
+      "q": "Объясни Countable nouns",
+      "a": "\"Countable nouns\" is used to talk about completed actions in the past. Example: \"This is my house.\""
+    },
+    {
+      "q": "Пример Countable nouns",
+      "a": "Example: \"This is my house.\""
+    },
+    {
+      "q": "Что такое As long as?",
+      "a": "\"As long as\" is used to describe actions that are happening right now or temporary situations. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Расскажи про As long as",
+      "a": "\"As long as\" is used to describe actions that are happening right now or temporary situations. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Правило As long as",
+      "a": "\"As long as\" is used to describe actions that are happening right now or temporary situations. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Объясни As long as",
+      "a": "\"As long as\" is used to describe actions that are happening right now or temporary situations. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Пример As long as",
+      "a": "Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Что такое Common nouns?",
+      "a": "\"Common nouns\" is used to express ability, permission, obligation, or possibility. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Расскажи про Common nouns",
+      "a": "\"Common nouns\" is used to express ability, permission, obligation, or possibility. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Правило Common nouns",
+      "a": "\"Common nouns\" is used to express ability, permission, obligation, or possibility. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Объясни Common nouns",
+      "a": "\"Common nouns\" is used to express ability, permission, obligation, or possibility. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Пример Common nouns",
+      "a": "Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Что такое Used to?",
+      "a": "\"Used to\" is used to combine sentences or ideas into more complex structures. Example: \"She sings beautifully.\""
+    },
+    {
+      "q": "Расскажи про Used to",
+      "a": "\"Used to\" is used to combine sentences or ideas into more complex structures. Example: \"She sings beautifully.\""
+    },
+    {
+      "q": "Правило Used to",
+      "a": "\"Used to\" is used to combine sentences or ideas into more complex structures. Example: \"She sings beautifully.\""
+    },
+    {
+      "q": "Объясни Used to",
+      "a": "\"Used to\" is used to combine sentences or ideas into more complex structures. Example: \"She sings beautifully.\""
+    },
+    {
+      "q": "Пример Used to",
+      "a": "Example: \"She sings beautifully.\""
+    },
+    {
+      "q": "Что такое Past perfect continuous?",
+      "a": "\"Past perfect continuous\" is used to combine sentences or ideas into more complex structures. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Расскажи про Past perfect continuous",
+      "a": "\"Past perfect continuous\" is used to combine sentences or ideas into more complex structures. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Правило Past perfect continuous",
+      "a": "\"Past perfect continuous\" is used to combine sentences or ideas into more complex structures. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Объясни Past perfect continuous",
+      "a": "\"Past perfect continuous\" is used to combine sentences or ideas into more complex structures. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Пример Past perfect continuous",
+      "a": "Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Что такое Past continuous?",
+      "a": "\"Past continuous\" is used to report what someone else has said. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Расскажи про Past continuous",
+      "a": "\"Past continuous\" is used to report what someone else has said. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Правило Past continuous",
+      "a": "\"Past continuous\" is used to report what someone else has said. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Объясни Past continuous",
+      "a": "\"Past continuous\" is used to report what someone else has said. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Пример Past continuous",
+      "a": "Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Что такое Be going to?",
+      "a": "\"Be going to\" is used to express actions that happen regularly or are facts. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Расскажи про Be going to",
+      "a": "\"Be going to\" is used to express actions that happen regularly or are facts. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Правило Be going to",
+      "a": "\"Be going to\" is used to express actions that happen regularly or are facts. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Объясни Be going to",
+      "a": "\"Be going to\" is used to express actions that happen regularly or are facts. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Пример Be going to",
+      "a": "Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Что такое Present continuous for future?",
+      "a": "\"Present continuous for future\" is used to express actions that happen regularly or are facts. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Расскажи про Present continuous for future",
+      "a": "\"Present continuous for future\" is used to express actions that happen regularly or are facts. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Правило Present continuous for future",
+      "a": "\"Present continuous for future\" is used to express actions that happen regularly or are facts. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Объясни Present continuous for future",
+      "a": "\"Present continuous for future\" is used to express actions that happen regularly or are facts. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Пример Present continuous for future",
+      "a": "Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Что такое Phrasal verbs?",
+      "a": "\"Phrasal verbs\" is used to express actions that happen regularly or are facts. Example: \"She works every day.\""
+    },
+    {
+      "q": "Расскажи про Phrasal verbs",
+      "a": "\"Phrasal verbs\" is used to express actions that happen regularly or are facts. Example: \"She works every day.\""
+    },
+    {
+      "q": "Правило Phrasal verbs",
+      "a": "\"Phrasal verbs\" is used to express actions that happen regularly or are facts. Example: \"She works every day.\""
+    },
+    {
+      "q": "Объясни Phrasal verbs",
+      "a": "\"Phrasal verbs\" is used to express actions that happen regularly or are facts. Example: \"She works every day.\""
+    },
+    {
+      "q": "Пример Phrasal verbs",
+      "a": "Example: \"She works every day.\""
+    },
+    {
+      "q": "Что такое So such?",
+      "a": "\"So such\" is used to talk about future actions, predictions, promises. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Расскажи про So such",
+      "a": "\"So such\" is used to talk about future actions, predictions, promises. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Правило So such",
+      "a": "\"So such\" is used to talk about future actions, predictions, promises. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Объясни So such",
+      "a": "\"So such\" is used to talk about future actions, predictions, promises. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Пример So such",
+      "a": "Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Что такое Gerund as subject?",
+      "a": "\"Gerund as subject\" is used to form questions, negatives, and emphasis. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Расскажи про Gerund as subject",
+      "a": "\"Gerund as subject\" is used to form questions, negatives, and emphasis. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Правило Gerund as subject",
+      "a": "\"Gerund as subject\" is used to form questions, negatives, and emphasis. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Объясни Gerund as subject",
+      "a": "\"Gerund as subject\" is used to form questions, negatives, and emphasis. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Пример Gerund as subject",
+      "a": "Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Что такое Should?",
+      "a": "\"Should\" is used to talk about imaginary or hypothetical situations. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Расскажи про Should",
+      "a": "\"Should\" is used to talk about imaginary or hypothetical situations. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Правило Should",
+      "a": "\"Should\" is used to talk about imaginary or hypothetical situations. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Объясни Should",
+      "a": "\"Should\" is used to talk about imaginary or hypothetical situations. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Пример Should",
+      "a": "Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Что такое Will?",
+      "a": "\"Will\" is used to report what someone else has said. Example: \"She works every day.\""
+    },
+    {
+      "q": "Расскажи про Will",
+      "a": "\"Will\" is used to report what someone else has said. Example: \"She works every day.\""
+    },
+    {
+      "q": "Правило Will",
+      "a": "\"Will\" is used to report what someone else has said. Example: \"She works every day.\""
+    },
+    {
+      "q": "Объясни Will",
+      "a": "\"Will\" is used to report what someone else has said. Example: \"She works every day.\""
+    },
+    {
+      "q": "Пример Will",
+      "a": "Example: \"She works every day.\""
+    },
+    {
+      "q": "Что такое Unless?",
+      "a": "\"Unless\" is used to express ability, permission, obligation, or possibility. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Расскажи про Unless",
+      "a": "\"Unless\" is used to express ability, permission, obligation, or possibility. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Правило Unless",
+      "a": "\"Unless\" is used to express ability, permission, obligation, or possibility. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Объясни Unless",
+      "a": "\"Unless\" is used to express ability, permission, obligation, or possibility. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Пример Unless",
+      "a": "Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Что такое Present perfect continuous?",
+      "a": "\"Present perfect continuous\" is used to form questions, negatives, and emphasis. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Расскажи про Present perfect continuous",
+      "a": "\"Present perfect continuous\" is used to form questions, negatives, and emphasis. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Правило Present perfect continuous",
+      "a": "\"Present perfect continuous\" is used to form questions, negatives, and emphasis. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Объясни Present perfect continuous",
+      "a": "\"Present perfect continuous\" is used to form questions, negatives, and emphasis. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Пример Present perfect continuous",
+      "a": "Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Что такое Zero article?",
+      "a": "\"Zero article\" is used to describe frequency, manner, time, or place. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Расскажи про Zero article",
+      "a": "\"Zero article\" is used to describe frequency, manner, time, or place. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Правило Zero article",
+      "a": "\"Zero article\" is used to describe frequency, manner, time, or place. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Объясни Zero article",
+      "a": "\"Zero article\" is used to describe frequency, manner, time, or place. Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Пример Zero article",
+      "a": "Example: \"They are studying right now.\""
+    },
+    {
+      "q": "Что такое Relative clauses defining?",
+      "a": "\"Relative clauses defining\" is used to express general truths, real situations, and consequences. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Расскажи про Relative clauses defining",
+      "a": "\"Relative clauses defining\" is used to express general truths, real situations, and consequences. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Правило Relative clauses defining",
+      "a": "\"Relative clauses defining\" is used to express general truths, real situations, and consequences. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Объясни Relative clauses defining",
+      "a": "\"Relative clauses defining\" is used to express general truths, real situations, and consequences. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Пример Relative clauses defining",
+      "a": "Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Что такое May?",
+      "a": "\"May\" is used to express actions that happen regularly or are facts. Example: \"She sings beautifully.\""
+    },
+    {
+      "q": "Расскажи про May",
+      "a": "\"May\" is used to express actions that happen regularly or are facts. Example: \"She sings beautifully.\""
+    },
+    {
+      "q": "Правило May",
+      "a": "\"May\" is used to express actions that happen regularly or are facts. Example: \"She sings beautifully.\""
+    },
+    {
+      "q": "Объясни May",
+      "a": "\"May\" is used to express actions that happen regularly or are facts. Example: \"She sings beautifully.\""
+    },
+    {
+      "q": "Пример May",
+      "a": "Example: \"She sings beautifully.\""
+    },
+    {
+      "q": "Что такое Definite article?",
+      "a": "\"Definite article\" is used to create sentences where the subject is acted upon. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Расскажи про Definite article",
+      "a": "\"Definite article\" is used to create sentences where the subject is acted upon. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Правило Definite article",
+      "a": "\"Definite article\" is used to create sentences where the subject is acted upon. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Объясни Definite article",
+      "a": "\"Definite article\" is used to create sentences where the subject is acted upon. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Пример Definite article",
+      "a": "Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Что такое Too enough?",
+      "a": "\"Too enough\" is used to express actions that happen regularly or are facts. Example: \"This is my house.\""
+    },
+    {
+      "q": "Расскажи про Too enough",
+      "a": "\"Too enough\" is used to express actions that happen regularly or are facts. Example: \"This is my house.\""
+    },
+    {
+      "q": "Правило Too enough",
+      "a": "\"Too enough\" is used to express actions that happen regularly or are facts. Example: \"This is my house.\""
+    },
+    {
+      "q": "Объясни Too enough",
+      "a": "\"Too enough\" is used to express actions that happen regularly or are facts. Example: \"This is my house.\""
+    },
+    {
+      "q": "Пример Too enough",
+      "a": "Example: \"This is my house.\""
+    },
+    {
+      "q": "Что такое Present simple?",
+      "a": "\"Present simple\" is used to compare two things, people, or situations. Example: \"She works every day.\""
+    },
+    {
+      "q": "Расскажи про Present simple",
+      "a": "\"Present simple\" is used to compare two things, people, or situations. Example: \"She works every day.\""
+    },
+    {
+      "q": "Правило Present simple",
+      "a": "\"Present simple\" is used to compare two things, people, or situations. Example: \"She works every day.\""
+    },
+    {
+      "q": "Объясни Present simple",
+      "a": "\"Present simple\" is used to compare two things, people, or situations. Example: \"She works every day.\""
+    },
+    {
+      "q": "Пример Present simple",
+      "a": "Example: \"She works every day.\""
+    },
+    {
+      "q": "Что такое Present perfect?",
+      "a": "\"Present perfect\" is used to talk about future actions, predictions, promises. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Расскажи про Present perfect",
+      "a": "\"Present perfect\" is used to talk about future actions, predictions, promises. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Правило Present perfect",
+      "a": "\"Present perfect\" is used to talk about future actions, predictions, promises. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Объясни Present perfect",
+      "a": "\"Present perfect\" is used to talk about future actions, predictions, promises. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Пример Present perfect",
+      "a": "Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Что такое Word order questions?",
+      "a": "\"Word order questions\" is used to express general truths, real situations, and consequences. Example: \"She works every day.\""
+    },
+    {
+      "q": "Расскажи про Word order questions",
+      "a": "\"Word order questions\" is used to express general truths, real situations, and consequences. Example: \"She works every day.\""
+    },
+    {
+      "q": "Правило Word order questions",
+      "a": "\"Word order questions\" is used to express general truths, real situations, and consequences. Example: \"She works every day.\""
+    },
+    {
+      "q": "Объясни Word order questions",
+      "a": "\"Word order questions\" is used to express general truths, real situations, and consequences. Example: \"She works every day.\""
+    },
+    {
+      "q": "Пример Word order questions",
+      "a": "Example: \"She works every day.\""
+    },
+    {
+      "q": "Что такое Although even though?",
+      "a": "\"Although even though\" is used to create sentences where the subject is acted upon. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Расскажи про Although even though",
+      "a": "\"Although even though\" is used to create sentences where the subject is acted upon. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Правило Although even though",
+      "a": "\"Although even though\" is used to create sentences where the subject is acted upon. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Объясни Although even though",
+      "a": "\"Although even though\" is used to create sentences where the subject is acted upon. Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Пример Although even though",
+      "a": "Example: \"I visited London last year.\""
+    },
+    {
+      "q": "Что такое Word order statements?",
+      "a": "\"Word order statements\" is used to describe actions that are happening right now or temporary situations. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Расскажи про Word order statements",
+      "a": "\"Word order statements\" is used to describe actions that are happening right now or temporary situations. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Правило Word order statements",
+      "a": "\"Word order statements\" is used to describe actions that are happening right now or temporary situations. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Объясни Word order statements",
+      "a": "\"Word order statements\" is used to describe actions that are happening right now or temporary situations. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Пример Word order statements",
+      "a": "Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Что такое Indefinite article?",
+      "a": "\"Indefinite article\" is used to talk about completed actions in the past. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Расскажи про Indefinite article",
+      "a": "\"Indefinite article\" is used to talk about completed actions in the past. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Правило Indefinite article",
+      "a": "\"Indefinite article\" is used to talk about completed actions in the past. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Объясни Indefinite article",
+      "a": "\"Indefinite article\" is used to talk about completed actions in the past. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Пример Indefinite article",
+      "a": "Example: \"If I had money, I would travel.\""
+    },
+    {
+      "q": "Что такое Future perfect?",
+      "a": "\"Future perfect\" is used to report what someone else has said. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Расскажи про Future perfect",
+      "a": "\"Future perfect\" is used to report what someone else has said. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Правило Future perfect",
+      "a": "\"Future perfect\" is used to report what someone else has said. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Объясни Future perfect",
+      "a": "\"Future perfect\" is used to report what someone else has said. Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Пример Future perfect",
+      "a": "Example: \"She said she was tired.\""
+    },
+    {
+      "q": "Что такое Adverbs of manner?",
+      "a": "\"Adverbs of manner\" is used to create sentences where the subject is acted upon. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Расскажи про Adverbs of manner",
+      "a": "\"Adverbs of manner\" is used to create sentences where the subject is acted upon. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Правило Adverbs of manner",
+      "a": "\"Adverbs of manner\" is used to create sentences where the subject is acted upon. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Объясни Adverbs of manner",
+      "a": "\"Adverbs of manner\" is used to create sentences where the subject is acted upon. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Пример Adverbs of manner",
+      "a": "Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Что такое Infinitive without to?",
+      "a": "\"Infinitive without to\" is used to express ability, permission, obligation, or possibility. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Расскажи про Infinitive without to",
+      "a": "\"Infinitive without to\" is used to express ability, permission, obligation, or possibility. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Правило Infinitive without to",
+      "a": "\"Infinitive without to\" is used to express ability, permission, obligation, or possibility. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Объясни Infinitive without to",
+      "a": "\"Infinitive without to\" is used to express ability, permission, obligation, or possibility. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Пример Infinitive without to",
+      "a": "Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Что такое Gerund as object?",
+      "a": "\"Gerund as object\" is used to talk about completed actions in the past. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Расскажи про Gerund as object",
+      "a": "\"Gerund as object\" is used to talk about completed actions in the past. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Правило Gerund as object",
+      "a": "\"Gerund as object\" is used to talk about completed actions in the past. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Объясни Gerund as object",
+      "a": "\"Gerund as object\" is used to talk about completed actions in the past. Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Пример Gerund as object",
+      "a": "Example: \"He can speak three languages.\""
+    },
+    {
+      "q": "Что такое Present participle?",
+      "a": "\"Present participle\" is used to describe frequency, manner, time, or place. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Расскажи про Present participle",
+      "a": "\"Present participle\" is used to describe frequency, manner, time, or place. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Правило Present participle",
+      "a": "\"Present participle\" is used to describe frequency, manner, time, or place. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Объясни Present participle",
+      "a": "\"Present participle\" is used to describe frequency, manner, time, or place. Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Пример Present participle",
+      "a": "Example: \"This book is more interesting.\""
+    },
+    {
+      "q": "Что такое Reported speech statements?",
+      "a": "\"Reported speech statements\" is used to create sentences where the subject is acted upon. Example: \"She works every day.\""
+    },
+    {
+      "q": "Расскажи про Reported speech statements",
+      "a": "\"Reported speech statements\" is used to create sentences where the subject is acted upon. Example: \"She works every day.\""
+    },
+    {
+      "q": "Правило Reported speech statements",
+      "a": "\"Reported speech statements\" is used to create sentences where the subject is acted upon. Example: \"She works every day.\""
+    },
+    {
+      "q": "Объясни Reported speech statements",
+      "a": "\"Reported speech statements\" is used to create sentences where the subject is acted upon. Example: \"She works every day.\""
+    },
+    {
+      "q": "Пример Reported speech statements",
+      "a": "Example: \"She works every day.\""
+    },
+    {
+      "q": "Что такое Abstract nouns?",
+      "a": "\"Abstract nouns\" is used to talk about completed actions in the past. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Расскажи про Abstract nouns",
+      "a": "\"Abstract nouns\" is used to talk about completed actions in the past. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Правило Abstract nouns",
+      "a": "\"Abstract nouns\" is used to talk about completed actions in the past. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Объясни Abstract nouns",
+      "a": "\"Abstract nouns\" is used to talk about completed actions in the past. Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Пример Abstract nouns",
+      "a": "Example: \"The book was written by him.\""
+    },
+    {
+      "q": "Что такое Question tags?",
+      "a": "\"Question tags\" is used to talk about imaginary or hypothetical situations. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Расскажи про Question tags",
+      "a": "\"Question tags\" is used to talk about imaginary or hypothetical situations. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Правило Question tags",
+      "a": "\"Question tags\" is used to talk about imaginary or hypothetical situations. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Объясни Question tags",
+      "a": "\"Question tags\" is used to talk about imaginary or hypothetical situations. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Пример Question tags",
+      "a": "Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "q": "Что такое Infinitive with to?",
+      "a": "\"Infinitive with to\" is used to talk about completed actions in the past. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Расскажи про Infinitive with to",
+      "a": "\"Infinitive with to\" is used to talk about completed actions in the past. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Правило Infinitive with to",
+      "a": "\"Infinitive with to\" is used to talk about completed actions in the past. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Объясни Infinitive with to",
+      "a": "\"Infinitive with to\" is used to talk about completed actions in the past. Example: \"Do you like coffee?\""
+    },
+    {
+      "q": "Пример Infinitive with to",
+      "a": "Example: \"Do you like coffee?\""
+    }
+  ],
+  "facts": [
+    {
+      "text": "Правило: Be used to. \"Be used to\" is used to talk about imaginary or hypothetical situations. Example: \"She works every day.\""
+    },
+    {
+      "text": "Be used to: \"Be used to\" is used to talk about imaginary or hypothetical situations."
+    },
+    {
+      "text": "Правило: Could. verb: (auxiliary verb, defective) To know how to; to be able to.. noun: Something that could happen, or could be the case, under different circumstances; a potentiality..  She can speak English, French, and German.   I can play football.   Can you remember your fifth birthday?"
+    },
+    {
+      "text": "Could: verb: (auxiliary verb, defective) To know how to; to be able to.. noun: Something that could happen, or could be the case, under different circumstances; a potentiality.. "
+    },
+    {
+      "text": "Правило: Proper nouns. noun: (grammar) A noun denoting a particular person, place, organization, ship, animal, event, or other individual entity.  Example using \"Proper nouns\""
+    },
+    {
+      "text": "Proper nouns: noun: (grammar) A noun denoting a particular person, place, organization, ship, animal, event, or other individual entity. "
+    },
+    {
+      "text": "Правило: Adverbs of frequency. \"Adverbs of frequency\" is used to talk about future actions, predictions, promises. Example: \"She works every day.\""
+    },
+    {
+      "text": "Adverbs of frequency: \"Adverbs of frequency\" is used to talk about future actions, predictions, promises."
+    },
+    {
+      "text": "Правило: Will vs going to. \"Will vs going to\" is used to express general truths, real situations, and consequences. Example: \"She said she was tired.\""
+    },
+    {
+      "text": "Will vs going to: \"Will vs going to\" is used to express general truths, real situations, and consequences."
+    },
+    {
+      "text": "Правило: Despite in spite of. \"Despite in spite of\" is used to express general truths, real situations, and consequences. Example: \"They are studying right now.\""
+    },
+    {
+      "text": "Despite in spite of: \"Despite in spite of\" is used to express general truths, real situations, and consequences."
+    },
+    {
+      "text": "Правило: Comparative adverbs. \"Comparative adverbs\" is used to talk about completed actions in the past. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "text": "Comparative adverbs: \"Comparative adverbs\" is used to talk about completed actions in the past."
+    },
+    {
+      "text": "Правило: Passive voice present. \"Passive voice present\" is used to combine sentences or ideas into more complex structures. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "text": "Passive voice present: \"Passive voice present\" is used to combine sentences or ideas into more complex structures."
+    },
+    {
+      "text": "Правило: Wish clauses. \"Wish clauses\" is used to talk about imaginary or hypothetical situations. Example: \"He can speak three languages.\""
+    },
+    {
+      "text": "Wish clauses: \"Wish clauses\" is used to talk about imaginary or hypothetical situations."
+    },
+    {
+      "text": "Правило: Future continuous. \"Future continuous\" is used to express ownership, relationship, or existence. Example: \"I visited London last year.\""
+    },
+    {
+      "text": "Future continuous: \"Future continuous\" is used to express ownership, relationship, or existence."
+    },
+    {
+      "text": "Правило: Past simple. \"Past simple\" is used to talk about completed actions in the past. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "text": "Past simple: \"Past simple\" is used to talk about completed actions in the past."
+    },
+    {
+      "text": "Правило: Collective nouns. \"Collective nouns\" is used to describe actions that are happening right now or temporary situations. Example: \"The book was written by him.\""
+    },
+    {
+      "text": "Collective nouns: \"Collective nouns\" is used to describe actions that are happening right now or temporary situations."
+    },
+    {
+      "text": "Правило: Passive voice past. \"Passive voice past\" is used to combine sentences or ideas into more complex structures. Example: \"They are studying right now.\""
+    },
+    {
+      "text": "Passive voice past: \"Passive voice past\" is used to combine sentences or ideas into more complex structures."
+    },
+    {
+      "text": "Правило: Emphatic do. \"Emphatic do\" is used to compare two things, people, or situations. Example: \"This is my house.\""
+    },
+    {
+      "text": "Emphatic do: \"Emphatic do\" is used to compare two things, people, or situations."
+    },
+    {
+      "text": "Правило: Might. \"Might\" is used to create sentences where the subject is acted upon. Example: \"She said she was tired.\""
+    },
+    {
+      "text": "Might: \"Might\" is used to create sentences where the subject is acted upon."
+    },
+    {
+      "text": "Правило: Neither either. \"Neither either\" is used to express actions that happen regularly or are facts. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "text": "Neither either: \"Neither either\" is used to express actions that happen regularly or are facts."
+    },
+    {
+      "text": "Правило: Comparative adjectives. \"Comparative adjectives\" is used to express general truths, real situations, and consequences. Example: \"I visited London last year.\""
+    },
+    {
+      "text": "Comparative adjectives: \"Comparative adjectives\" is used to express general truths, real situations, and consequences."
+    },
+    {
+      "text": "Правило: Mixed conditionals. \"Mixed conditionals\" is used to form questions, negatives, and emphasis. Example: \"She said she was tired.\""
+    },
+    {
+      "text": "Mixed conditionals: \"Mixed conditionals\" is used to form questions, negatives, and emphasis."
+    },
+    {
+      "text": "Правило: Prepositions of place. \"Prepositions of place\" is used to create sentences where the subject is acted upon. Example: \"This is my house.\""
+    },
+    {
+      "text": "Prepositions of place: \"Prepositions of place\" is used to create sentences where the subject is acted upon."
+    },
+    {
+      "text": "Правило: Modal verbs. \"Modal verbs\" is used to describe actions that are happening right now or temporary situations. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "text": "Modal verbs: \"Modal verbs\" is used to describe actions that are happening right now or temporary situations."
+    },
+    {
+      "text": "Правило: Second conditional. \"Second conditional\" is used to form questions, negatives, and emphasis. Example: \"This is my house.\""
+    },
+    {
+      "text": "Second conditional: \"Second conditional\" is used to form questions, negatives, and emphasis."
+    },
+    {
+      "text": "Правило: Prepositions of movement. \"Prepositions of movement\" is used to talk about completed actions in the past. Example: \"We will arrive tomorrow.\""
+    },
+    {
+      "text": "Prepositions of movement: \"Prepositions of movement\" is used to talk about completed actions in the past."
+    },
+    {
+      "text": "Правило: Prepositions of time. \"Prepositions of time\" is used to express ability, permission, obligation, or possibility. Example: \"I visited London last year.\""
+    },
+    {
+      "text": "Prepositions of time: \"Prepositions of time\" is used to express ability, permission, obligation, or possibility."
+    },
+    {
+      "text": "Правило: Have vs have got. \"Have vs have got\" is used to compare two things, people, or situations. Example: \"He can speak three languages.\""
+    },
+    {
+      "text": "Have vs have got: \"Have vs have got\" is used to compare two things, people, or situations."
+    },
+    {
+      "text": "Правило: Articles. \"Articles\" is used to report what someone else has said. Example: \"He can speak three languages.\""
+    },
+    {
+      "text": "Articles: \"Articles\" is used to report what someone else has said."
+    },
+    {
+      "text": "Правило: Possessive pronouns. \"Possessive pronouns\" is used to express ownership, relationship, or existence. Example: \"The book was written by him.\""
+    },
+    {
+      "text": "Possessive pronouns: \"Possessive pronouns\" is used to express ownership, relationship, or existence."
+    },
+    {
+      "text": "Правило: Future simple. \"Future simple\" is used to express actions that happen regularly or are facts. Example: \"They are studying right now.\""
+    },
+    {
+      "text": "Future simple: \"Future simple\" is used to express actions that happen regularly or are facts."
+    },
+    {
+      "text": "Правило: Third conditional. \"Third conditional\" is used to express ability, permission, obligation, or possibility. Example: \"I visited London last year.\""
+    },
+    {
+      "text": "Third conditional: \"Third conditional\" is used to express ability, permission, obligation, or possibility."
+    },
+    {
+      "text": "Правило: Possessive adjectives. \"Possessive adjectives\" is used to form questions, negatives, and emphasis. Example: \"I visited London last year.\""
+    },
+    {
+      "text": "Possessive adjectives: \"Possessive adjectives\" is used to form questions, negatives, and emphasis."
+    },
+    {
+      "text": "Правило: Present continuous. \"Present continuous\" is used to form questions, negatives, and emphasis. Example: \"He can speak three languages.\""
+    },
+    {
+      "text": "Present continuous: \"Present continuous\" is used to form questions, negatives, and emphasis."
+    },
+    {
+      "text": "Правило: There is there are. \"There is there are\" is used to express general truths, real situations, and consequences. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "text": "There is there are: \"There is there are\" is used to express general truths, real situations, and consequences."
+    },
+    {
+      "text": "Правило: Relative clauses non defining. \"Relative clauses non defining\" is used to talk about imaginary or hypothetical situations. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "text": "Relative clauses non defining: \"Relative clauses non defining\" is used to talk about imaginary or hypothetical situations."
+    },
+    {
+      "text": "Правило: Can. \"Can\" is used to describe frequency, manner, time, or place. Example: \"Do you like coffee?\""
+    },
+    {
+      "text": "Can: \"Can\" is used to describe frequency, manner, time, or place."
+    },
+    {
+      "text": "Правило: Both and. \"Both and\" is used to describe actions that are happening right now or temporary situations. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "text": "Both and: \"Both and\" is used to describe actions that are happening right now or temporary situations."
+    },
+    {
+      "text": "Правило: Future perfect continuous. \"Future perfect continuous\" is used to report what someone else has said. Example: \"I visited London last year.\""
+    },
+    {
+      "text": "Future perfect continuous: \"Future perfect continuous\" is used to report what someone else has said."
+    },
+    {
+      "text": "Правило: There was there were. \"There was there were\" is used to talk about future actions, predictions, promises. Example: \"This book is more interesting.\""
+    },
+    {
+      "text": "There was there were: \"There was there were\" is used to talk about future actions, predictions, promises."
+    },
+    {
+      "text": "Правило: Passive voice future. \"Passive voice future\" is used to form questions, negatives, and emphasis. Example: \"They are studying right now.\""
+    },
+    {
+      "text": "Passive voice future: \"Passive voice future\" is used to form questions, negatives, and emphasis."
+    },
+    {
+      "text": "Правило: Past participle. \"Past participle\" is used to create sentences where the subject is acted upon. Example: \"Do you like coffee?\""
+    },
+    {
+      "text": "Past participle: \"Past participle\" is used to create sentences where the subject is acted upon."
+    },
+    {
+      "text": "Правило: Must. \"Must\" is used to form questions, negatives, and emphasis. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "text": "Must: \"Must\" is used to form questions, negatives, and emphasis."
+    },
+    {
+      "text": "Правило: It is construction. \"It is construction\" is used to express ownership, relationship, or existence. Example: \"I visited London last year.\""
+    },
+    {
+      "text": "It is construction: \"It is construction\" is used to express ownership, relationship, or existence."
+    },
+    {
+      "text": "Правило: Would. \"Would\" is used to talk about completed actions in the past. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "text": "Would: \"Would\" is used to talk about completed actions in the past."
+    },
+    {
+      "text": "Правило: Have got. \"Have got\" is used to describe actions that are happening right now or temporary situations. Example: \"I visited London last year.\""
+    },
+    {
+      "text": "Have got: \"Have got\" is used to describe actions that are happening right now or temporary situations."
+    },
+    {
+      "text": "Правило: Superlative adjectives. \"Superlative adjectives\" is used to talk about future actions, predictions, promises. Example: \"She said she was tired.\""
+    },
+    {
+      "text": "Superlative adjectives: \"Superlative adjectives\" is used to talk about future actions, predictions, promises."
+    },
+    {
+      "text": "Правило: Reported speech questions. \"Reported speech questions\" is used to create sentences where the subject is acted upon. Example: \"They are studying right now.\""
+    },
+    {
+      "text": "Reported speech questions: \"Reported speech questions\" is used to create sentences where the subject is acted upon."
+    },
+    {
+      "text": "Правило: First conditional. \"First conditional\" is used to describe actions that are happening right now or temporary situations. Example: \"This book is more interesting.\""
+    },
+    {
+      "text": "First conditional: \"First conditional\" is used to describe actions that are happening right now or temporary situations."
+    },
+    {
+      "text": "Правило: Reflexive pronouns. \"Reflexive pronouns\" is used to create sentences where the subject is acted upon. Example: \"This is my house.\""
+    },
+    {
+      "text": "Reflexive pronouns: \"Reflexive pronouns\" is used to create sentences where the subject is acted upon."
+    },
+    {
+      "text": "Правило: Because because of. \"Because because of\" is used to talk about imaginary or hypothetical situations. Example: \"She works every day.\""
+    },
+    {
+      "text": "Because because of: \"Because because of\" is used to talk about imaginary or hypothetical situations."
+    },
+    {
+      "text": "Правило: Reported speech commands. \"Reported speech commands\" is used to express general truths, real situations, and consequences. Example: \"Do you like coffee?\""
+    },
+    {
+      "text": "Reported speech commands: \"Reported speech commands\" is used to express general truths, real situations, and consequences."
+    },
+    {
+      "text": "Правило: Adverbs of place. \"Adverbs of place\" is used to describe actions that are happening right now or temporary situations. Example: \"This is my house.\""
+    },
+    {
+      "text": "Adverbs of place: \"Adverbs of place\" is used to describe actions that are happening right now or temporary situations."
+    },
+    {
+      "text": "Правило: Provided that. \"Provided that\" is used to compare two things, people, or situations. Example: \"They are studying right now.\""
+    },
+    {
+      "text": "Provided that: \"Provided that\" is used to compare two things, people, or situations."
+    },
+    {
+      "text": "Правило: Past perfect. \"Past perfect\" is used to form questions, negatives, and emphasis. Example: \"The book was written by him.\""
+    },
+    {
+      "text": "Past perfect: \"Past perfect\" is used to form questions, negatives, and emphasis."
+    },
+    {
+      "text": "Правило: Perfect participle. \"Perfect participle\" is used to combine sentences or ideas into more complex structures. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "text": "Perfect participle: \"Perfect participle\" is used to combine sentences or ideas into more complex structures."
+    },
+    {
+      "text": "Правило: Get used to. \"Get used to\" is used to compare two things, people, or situations. Example: \"This book is more interesting.\""
+    },
+    {
+      "text": "Get used to: \"Get used to\" is used to compare two things, people, or situations."
+    },
+    {
+      "text": "Правило: Zero conditional. \"Zero conditional\" is used to form questions, negatives, and emphasis. Example: \"Do you like coffee?\""
+    },
+    {
+      "text": "Zero conditional: \"Zero conditional\" is used to form questions, negatives, and emphasis."
+    },
+    {
+      "text": "Правило: Uncountable nouns. \"Uncountable nouns\" is used to talk about future actions, predictions, promises. Example: \"Do you like coffee?\""
+    },
+    {
+      "text": "Uncountable nouns: \"Uncountable nouns\" is used to talk about future actions, predictions, promises."
+    },
+    {
+      "text": "Правило: Tag questions. \"Tag questions\" is used to express general truths, real situations, and consequences. Example: \"We will arrive tomorrow.\""
+    },
+    {
+      "text": "Tag questions: \"Tag questions\" is used to express general truths, real situations, and consequences."
+    },
+    {
+      "text": "Правило: Countable nouns. \"Countable nouns\" is used to talk about completed actions in the past. Example: \"This is my house.\""
+    },
+    {
+      "text": "Countable nouns: \"Countable nouns\" is used to talk about completed actions in the past."
+    },
+    {
+      "text": "Правило: As long as. \"As long as\" is used to describe actions that are happening right now or temporary situations. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "text": "As long as: \"As long as\" is used to describe actions that are happening right now or temporary situations."
+    },
+    {
+      "text": "Правило: Common nouns. \"Common nouns\" is used to express ability, permission, obligation, or possibility. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "text": "Common nouns: \"Common nouns\" is used to express ability, permission, obligation, or possibility."
+    },
+    {
+      "text": "Правило: Used to. \"Used to\" is used to combine sentences or ideas into more complex structures. Example: \"She sings beautifully.\""
+    },
+    {
+      "text": "Used to: \"Used to\" is used to combine sentences or ideas into more complex structures."
+    },
+    {
+      "text": "Правило: Past perfect continuous. \"Past perfect continuous\" is used to combine sentences or ideas into more complex structures. Example: \"I visited London last year.\""
+    },
+    {
+      "text": "Past perfect continuous: \"Past perfect continuous\" is used to combine sentences or ideas into more complex structures."
+    },
+    {
+      "text": "Правило: Past continuous. \"Past continuous\" is used to report what someone else has said. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "text": "Past continuous: \"Past continuous\" is used to report what someone else has said."
+    },
+    {
+      "text": "Правило: Be going to. \"Be going to\" is used to express actions that happen regularly or are facts. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "text": "Be going to: \"Be going to\" is used to express actions that happen regularly or are facts."
+    },
+    {
+      "text": "Правило: Present continuous for future. \"Present continuous for future\" is used to express actions that happen regularly or are facts. Example: \"He can speak three languages.\""
+    },
+    {
+      "text": "Present continuous for future: \"Present continuous for future\" is used to express actions that happen regularly or are facts."
+    },
+    {
+      "text": "Правило: Phrasal verbs. \"Phrasal verbs\" is used to express actions that happen regularly or are facts. Example: \"She works every day.\""
+    },
+    {
+      "text": "Phrasal verbs: \"Phrasal verbs\" is used to express actions that happen regularly or are facts."
+    },
+    {
+      "text": "Правило: So such. \"So such\" is used to talk about future actions, predictions, promises. Example: \"Do you like coffee?\""
+    },
+    {
+      "text": "So such: \"So such\" is used to talk about future actions, predictions, promises."
+    },
+    {
+      "text": "Правило: Gerund as subject. \"Gerund as subject\" is used to form questions, negatives, and emphasis. Example: \"He can speak three languages.\""
+    },
+    {
+      "text": "Gerund as subject: \"Gerund as subject\" is used to form questions, negatives, and emphasis."
+    },
+    {
+      "text": "Правило: Should. \"Should\" is used to talk about imaginary or hypothetical situations. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "text": "Should: \"Should\" is used to talk about imaginary or hypothetical situations."
+    },
+    {
+      "text": "Правило: Will. \"Will\" is used to report what someone else has said. Example: \"She works every day.\""
+    },
+    {
+      "text": "Will: \"Will\" is used to report what someone else has said."
+    },
+    {
+      "text": "Правило: Unless. \"Unless\" is used to express ability, permission, obligation, or possibility. Example: \"I visited London last year.\""
+    },
+    {
+      "text": "Unless: \"Unless\" is used to express ability, permission, obligation, or possibility."
+    },
+    {
+      "text": "Правило: Present perfect continuous. \"Present perfect continuous\" is used to form questions, negatives, and emphasis. Example: \"The book was written by him.\""
+    },
+    {
+      "text": "Present perfect continuous: \"Present perfect continuous\" is used to form questions, negatives, and emphasis."
+    },
+    {
+      "text": "Правило: Zero article. \"Zero article\" is used to describe frequency, manner, time, or place. Example: \"They are studying right now.\""
+    },
+    {
+      "text": "Zero article: \"Zero article\" is used to describe frequency, manner, time, or place."
+    },
+    {
+      "text": "Правило: Relative clauses defining. \"Relative clauses defining\" is used to express general truths, real situations, and consequences. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "text": "Relative clauses defining: \"Relative clauses defining\" is used to express general truths, real situations, and consequences."
+    },
+    {
+      "text": "Правило: May. \"May\" is used to express actions that happen regularly or are facts. Example: \"She sings beautifully.\""
+    },
+    {
+      "text": "May: \"May\" is used to express actions that happen regularly or are facts."
+    },
+    {
+      "text": "Правило: Definite article. \"Definite article\" is used to create sentences where the subject is acted upon. Example: \"The book was written by him.\""
+    },
+    {
+      "text": "Definite article: \"Definite article\" is used to create sentences where the subject is acted upon."
+    },
+    {
+      "text": "Правило: Too enough. \"Too enough\" is used to express actions that happen regularly or are facts. Example: \"This is my house.\""
+    },
+    {
+      "text": "Too enough: \"Too enough\" is used to express actions that happen regularly or are facts."
+    },
+    {
+      "text": "Правило: Present simple. \"Present simple\" is used to compare two things, people, or situations. Example: \"She works every day.\""
+    },
+    {
+      "text": "Present simple: \"Present simple\" is used to compare two things, people, or situations."
+    },
+    {
+      "text": "Правило: Present perfect. \"Present perfect\" is used to talk about future actions, predictions, promises. Example: \"She said she was tired.\""
+    },
+    {
+      "text": "Present perfect: \"Present perfect\" is used to talk about future actions, predictions, promises."
+    },
+    {
+      "text": "Правило: Word order questions. \"Word order questions\" is used to express general truths, real situations, and consequences. Example: \"She works every day.\""
+    },
+    {
+      "text": "Word order questions: \"Word order questions\" is used to express general truths, real situations, and consequences."
+    },
+    {
+      "text": "Правило: Although even though. \"Although even though\" is used to create sentences where the subject is acted upon. Example: \"I visited London last year.\""
+    },
+    {
+      "text": "Although even though: \"Although even though\" is used to create sentences where the subject is acted upon."
+    },
+    {
+      "text": "Правило: Word order statements. \"Word order statements\" is used to describe actions that are happening right now or temporary situations. Example: \"She said she was tired.\""
+    },
+    {
+      "text": "Word order statements: \"Word order statements\" is used to describe actions that are happening right now or temporary situations."
+    },
+    {
+      "text": "Правило: Indefinite article. \"Indefinite article\" is used to talk about completed actions in the past. Example: \"If I had money, I would travel.\""
+    },
+    {
+      "text": "Indefinite article: \"Indefinite article\" is used to talk about completed actions in the past."
+    },
+    {
+      "text": "Правило: Future perfect. \"Future perfect\" is used to report what someone else has said. Example: \"She said she was tired.\""
+    },
+    {
+      "text": "Future perfect: \"Future perfect\" is used to report what someone else has said."
+    },
+    {
+      "text": "Правило: Adverbs of manner. \"Adverbs of manner\" is used to create sentences where the subject is acted upon. Example: \"He can speak three languages.\""
+    },
+    {
+      "text": "Adverbs of manner: \"Adverbs of manner\" is used to create sentences where the subject is acted upon."
+    },
+    {
+      "text": "Правило: Infinitive without to. \"Infinitive without to\" is used to express ability, permission, obligation, or possibility. Example: \"This book is more interesting.\""
+    },
+    {
+      "text": "Infinitive without to: \"Infinitive without to\" is used to express ability, permission, obligation, or possibility."
+    },
+    {
+      "text": "Правило: Gerund as object. \"Gerund as object\" is used to talk about completed actions in the past. Example: \"He can speak three languages.\""
+    },
+    {
+      "text": "Gerund as object: \"Gerund as object\" is used to talk about completed actions in the past."
+    },
+    {
+      "text": "Правило: Present participle. \"Present participle\" is used to describe frequency, manner, time, or place. Example: \"This book is more interesting.\""
+    },
+    {
+      "text": "Present participle: \"Present participle\" is used to describe frequency, manner, time, or place."
+    },
+    {
+      "text": "Правило: Reported speech statements. \"Reported speech statements\" is used to create sentences where the subject is acted upon. Example: \"She works every day.\""
+    },
+    {
+      "text": "Reported speech statements: \"Reported speech statements\" is used to create sentences where the subject is acted upon."
+    },
+    {
+      "text": "Правило: Abstract nouns. \"Abstract nouns\" is used to talk about completed actions in the past. Example: \"The book was written by him.\""
+    },
+    {
+      "text": "Abstract nouns: \"Abstract nouns\" is used to talk about completed actions in the past."
+    },
+    {
+      "text": "Правило: Question tags. \"Question tags\" is used to talk about imaginary or hypothetical situations. Example: \"Although it was raining, we went out.\""
+    },
+    {
+      "text": "Question tags: \"Question tags\" is used to talk about imaginary or hypothetical situations."
+    },
+    {
+      "text": "Правило: Infinitive with to. \"Infinitive with to\" is used to talk about completed actions in the past. Example: \"Do you like coffee?\""
+    },
+    {
+      "text": "Infinitive with to: \"Infinitive with to\" is used to talk about completed actions in the past."
+    }
+  ]
+}
